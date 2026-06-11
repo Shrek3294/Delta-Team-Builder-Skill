@@ -2,6 +2,10 @@
 
 AI-assisted team building workspace for [Cobblemon Delta](https://modrinth.com/mod/cobblemon-delta) ranked ladder. Built and maintained by a Top 20 ranked player and the creator of [Delta-Calc](https://modrinth.com/mod/delta-calc).
 
+> **New here? Never used a coding tool before?**
+> Read the [**Walkthrough — No Coding Experience Needed**](WALKTHROUGH.md) first.
+> It covers Claude Code, Cursor, Codex, Qodo, and Gemini/Antigravity step by step.
+
 ## What this is
 
 A complete knowledge base + Claude Code skill for building competitive Cobblemon Delta teams. It combines:

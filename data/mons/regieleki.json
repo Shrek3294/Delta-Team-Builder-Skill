@@ -1,0 +1,644 @@
+{
+  "_curated": {
+    "speciesKey": "regieleki",
+    "displayName": "Regieleki",
+    "speciesId": "regieleki",
+    "source": "delta-curated",
+    "aliases": [
+      "Regieleki",
+      "regieleki"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "regieleki",
+    "speciesId": "regieleki",
+    "displayName": "Regieleki",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Electric"
+    ],
+    "abilities": [
+      "Transistor"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 100,
+      "def": 50,
+      "spa": 100,
+      "spd": 50,
+      "spe": 200
+    },
+    "weightKg": 145,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": false
+  },
+  "legalMoves": [
+    {
+      "id": "explosion",
+      "displayName": "Explosion",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 250,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L78"
+      ]
+    },
+    {
+      "id": "selfdestruct",
+      "displayName": "Self-Destruct",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 200,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "gigaimpact",
+      "displayName": "Giga Impact",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 150,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "thrash",
+      "displayName": "Thrash",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 120,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L54",
+        "S0"
+      ]
+    },
+    {
+      "id": "supercellslam",
+      "displayName": "Supercell Slam",
+      "type": "electric",
+      "category": "physical",
+      "basePower": 100,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "takedown",
+      "displayName": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 90,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "wildcharge",
+      "displayName": "Wild Charge",
+      "type": "electric",
+      "category": "physical",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "bodyslam",
+      "displayName": "Body Slam",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 85,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "bounce",
+      "displayName": "Bounce",
+      "type": "flying",
+      "category": "physical",
+      "basePower": 85,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "extremespeed",
+      "displayName": "Extreme Speed",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 2,
+      "methods": [
+        "L30"
+      ]
+    },
+    {
+      "id": "facade",
+      "displayName": "Facade",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "assurance",
+      "displayName": "Assurance",
+      "type": "dark",
+      "category": "physical",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "acrobatics",
+      "displayName": "Acrobatics",
+      "type": "flying",
+      "category": "physical",
+      "basePower": 55,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "rapidspin",
+      "displayName": "Rapid Spin",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1"
+      ]
+    },
+    {
+      "id": "hyperbeam",
+      "displayName": "Hyper Beam",
+      "type": "normal",
+      "category": "special",
+      "basePower": 150,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L72"
+      ]
+    },
+    {
+      "id": "zapcannon",
+      "displayName": "Zap Cannon",
+      "type": "electric",
+      "category": "special",
+      "basePower": 120,
+      "accuracy": 50,
+      "priority": 0,
+      "methods": [
+        "L66",
+        "S0"
+      ]
+    },
+    {
+      "id": "thunder",
+      "displayName": "Thunder",
+      "type": "electric",
+      "category": "special",
+      "basePower": 110,
+      "accuracy": 70,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "thunderbolt",
+      "displayName": "Thunderbolt",
+      "type": "electric",
+      "category": "special",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L42"
+      ]
+    },
+    {
+      "id": "terablast",
+      "displayName": "Tera Blast",
+      "type": "normal",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "thundercage",
+      "displayName": "Thunder Cage",
+      "type": "electric",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "L36",
+        "S0"
+      ]
+    },
+    {
+      "id": "risingvoltage",
+      "displayName": "Rising Voltage",
+      "type": "electric",
+      "category": "special",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "voltswitch",
+      "displayName": "Volt Switch",
+      "type": "electric",
+      "category": "special",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "ancientpower",
+      "displayName": "Ancient Power",
+      "type": "rock",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L12"
+      ]
+    },
+    {
+      "id": "round",
+      "displayName": "Round",
+      "type": "normal",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "shockwave",
+      "displayName": "Shock Wave",
+      "type": "electric",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "L18"
+      ]
+    },
+    {
+      "id": "swift",
+      "displayName": "Swift",
+      "type": "normal",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "electroweb",
+      "displayName": "Electroweb",
+      "type": "electric",
+      "category": "special",
+      "basePower": 55,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L6"
+      ]
+    },
+    {
+      "id": "chargebeam",
+      "displayName": "Charge Beam",
+      "type": "electric",
+      "category": "special",
+      "basePower": 50,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "snore",
+      "displayName": "Snore",
+      "type": "normal",
+      "category": "special",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "thundershock",
+      "displayName": "Thunder Shock",
+      "type": "electric",
+      "category": "special",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1"
+      ]
+    },
+    {
+      "id": "electroball",
+      "displayName": "Electro Ball",
+      "type": "electric",
+      "category": "special",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "agility",
+      "displayName": "Agility",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "charge",
+      "displayName": "Charge",
+      "type": "electric",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "eerieimpulse",
+      "displayName": "Eerie Impulse",
+      "type": "electric",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "electricterrain",
+      "displayName": "Electric Terrain",
+      "type": "electric",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "endure",
+      "displayName": "Endure",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "lightscreen",
+      "displayName": "Light Screen",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "lockon",
+      "displayName": "Lock-On",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "L60",
+        "S0"
+      ]
+    },
+    {
+      "id": "magnetrise",
+      "displayName": "Magnet Rise",
+      "type": "electric",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "L48"
+      ]
+    },
+    {
+      "id": "protect",
+      "displayName": "Protect",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "raindance",
+      "displayName": "Rain Dance",
+      "type": "water",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "reflect",
+      "displayName": "Reflect",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "rest",
+      "displayName": "Rest",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "screech",
+      "displayName": "Screech",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "sleeptalk",
+      "displayName": "Sleep Talk",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "substitute",
+      "displayName": "Substitute",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "thunderwave",
+      "displayName": "Thunder Wave",
+      "type": "electric",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L24"
+      ]
+    }
+  ]
+}

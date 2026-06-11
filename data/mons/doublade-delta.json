@@ -1,0 +1,1055 @@
+{
+  "_curated": {
+    "speciesKey": "doublade-delta",
+    "displayName": "Doublade-Delta",
+    "speciesId": "doublade-delta",
+    "source": "delta-curated",
+    "aliases": [
+      "Doublade-Delta",
+      "doublade-delta",
+      "doubladedelta",
+      "Doublade Delta",
+      "delta-doublade",
+      "Delta Doublade",
+      "deltadoublade",
+      "delta doublade",
+      "doublade delta"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "doublade-delta",
+    "speciesId": "doublade-delta",
+    "displayName": "Doublade-Delta",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Steel",
+      "Fire"
+    ],
+    "abilities": [
+      "Flash Fire"
+    ],
+    "baseStats": {
+      "hp": 64,
+      "atk": 85,
+      "def": 68,
+      "spa": 40,
+      "spd": 135,
+      "spe": 56
+    },
+    "weightKg": 4.5,
+    "classification": "Flame Sword Pokemon",
+    "obtainMethods": [
+      "Evolve Honedge at level 35"
+    ],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": false
+  },
+  "legalMoves": [
+    {
+      "id": "gigaimpact",
+      "displayName": "Giga Impact",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 150,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M:TM68"
+      ]
+    },
+    {
+      "id": "solarblade",
+      "displayName": "Solar Blade",
+      "type": "grass",
+      "category": "physical",
+      "basePower": 125,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TR01"
+      ]
+    },
+    {
+      "id": "closecombat",
+      "displayName": "Close Combat",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 120,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TR28"
+      ]
+    },
+    {
+      "id": "sacredsword",
+      "displayName": "Sacred Sword",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L48"
+      ]
+    },
+    {
+      "id": "bodypress",
+      "displayName": "Body Press",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TR34"
+      ]
+    },
+    {
+      "id": "ironhead",
+      "displayName": "Iron Head",
+      "type": "steel",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T",
+        "L36",
+        "M:TR29"
+      ]
+    },
+    {
+      "id": "xscissor",
+      "displayName": "X-Scissor",
+      "type": "bug",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TM81"
+      ]
+    },
+    {
+      "id": "brickbreak",
+      "displayName": "Brick Break",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 75,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TM31"
+      ]
+    },
+    {
+      "id": "rockslide",
+      "displayName": "Rock Slide",
+      "type": "rock",
+      "category": "physical",
+      "basePower": 75,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M:TM80"
+      ]
+    },
+    {
+      "id": "facade",
+      "displayName": "Facade",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TM42"
+      ]
+    },
+    {
+      "id": "nightslash",
+      "displayName": "Night Slash",
+      "type": "dark",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L24"
+      ]
+    },
+    {
+      "id": "psychocut",
+      "displayName": "Psycho Cut",
+      "type": "psychic",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TR15"
+      ]
+    },
+    {
+      "id": "retaliate",
+      "displayName": "Retaliate",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L28",
+        "M:TM67"
+      ]
+    },
+    {
+      "id": "secretpower",
+      "displayName": "Secret Power",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TM96"
+      ]
+    },
+    {
+      "id": "shadowclaw",
+      "displayName": "Shadow Claw",
+      "type": "ghost",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TM65"
+      ]
+    },
+    {
+      "id": "slash",
+      "displayName": "Slash",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L20"
+      ]
+    },
+    {
+      "id": "aerialace",
+      "displayName": "Aerial Ace",
+      "type": "flying",
+      "category": "physical",
+      "basePower": 60,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "L12",
+        "M:TM40"
+      ]
+    },
+    {
+      "id": "brutalswing",
+      "displayName": "Brutal Swing",
+      "type": "dark",
+      "category": "physical",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TR21"
+      ]
+    },
+    {
+      "id": "bulldoze",
+      "displayName": "Bulldoze",
+      "type": "ground",
+      "category": "physical",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TM78"
+      ]
+    },
+    {
+      "id": "cut",
+      "displayName": "Cut",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 50,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "M:HM01"
+      ]
+    },
+    {
+      "id": "flamecharge",
+      "displayName": "Flame Charge",
+      "type": "fire",
+      "category": "physical",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TM43"
+      ]
+    },
+    {
+      "id": "trailblaze",
+      "displayName": "Trailblaze",
+      "type": "grass",
+      "category": "physical",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TR36"
+      ]
+    },
+    {
+      "id": "falseswipe",
+      "displayName": "False Swipe",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TM54"
+      ]
+    },
+    {
+      "id": "furycutter",
+      "displayName": "Fury Cutter",
+      "type": "bug",
+      "category": "physical",
+      "basePower": 40,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "L1"
+      ]
+    },
+    {
+      "id": "rocksmash",
+      "displayName": "Rock Smash",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TM94"
+      ]
+    },
+    {
+      "id": "shadowsneak",
+      "displayName": "Shadow Sneak",
+      "type": "ghost",
+      "category": "physical",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 1,
+      "methods": [
+        "L4",
+        "E"
+      ]
+    },
+    {
+      "id": "tackle",
+      "displayName": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1"
+      ]
+    },
+    {
+      "id": "frustration",
+      "displayName": "Frustration",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TM21"
+      ]
+    },
+    {
+      "id": "gyroball",
+      "displayName": "Gyro Ball",
+      "type": "steel",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TR27"
+      ]
+    },
+    {
+      "id": "return",
+      "displayName": "Return",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TM27"
+      ]
+    },
+    {
+      "id": "reversal",
+      "displayName": "Reversal",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TR22"
+      ]
+    },
+    {
+      "id": "hyperbeam",
+      "displayName": "Hyper Beam",
+      "type": "normal",
+      "category": "special",
+      "basePower": 150,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M:TM15"
+      ]
+    },
+    {
+      "id": "steelbeam",
+      "displayName": "Steel Beam",
+      "type": "steel",
+      "category": "special",
+      "basePower": 140,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "T",
+        "M:TR52"
+      ]
+    },
+    {
+      "id": "overheat",
+      "displayName": "Overheat",
+      "type": "fire",
+      "category": "special",
+      "basePower": 130,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M:TM50"
+      ]
+    },
+    {
+      "id": "fireblast",
+      "displayName": "Fire Blast",
+      "type": "fire",
+      "category": "special",
+      "basePower": 110,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "M:TM38"
+      ]
+    },
+    {
+      "id": "heatwave",
+      "displayName": "Heat Wave",
+      "type": "fire",
+      "category": "special",
+      "basePower": 95,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "T",
+        "M:TR31"
+      ]
+    },
+    {
+      "id": "flamethrower",
+      "displayName": "Flamethrower",
+      "type": "fire",
+      "category": "special",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TM35"
+      ]
+    },
+    {
+      "id": "darkpulse",
+      "displayName": "Dark Pulse",
+      "type": "dark",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TM97"
+      ]
+    },
+    {
+      "id": "flashcannon",
+      "displayName": "Flash Cannon",
+      "type": "steel",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TM91"
+      ]
+    },
+    {
+      "id": "shadowball",
+      "displayName": "Shadow Ball",
+      "type": "ghost",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TM30"
+      ]
+    },
+    {
+      "id": "terablast",
+      "displayName": "Tera Blast",
+      "type": "normal",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TR53"
+      ]
+    },
+    {
+      "id": "airslash",
+      "displayName": "Air Slash",
+      "type": "flying",
+      "category": "special",
+      "basePower": 75,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "M:TR20"
+      ]
+    },
+    {
+      "id": "mysticalfire",
+      "displayName": "Mystical Fire",
+      "type": "fire",
+      "category": "special",
+      "basePower": 75,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TR30"
+      ]
+    },
+    {
+      "id": "burningjealousy",
+      "displayName": "Burning Jealousy",
+      "type": "fire",
+      "category": "special",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "scorchingsands",
+      "displayName": "Scorching Sands",
+      "type": "ground",
+      "category": "special",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "hiddenpower",
+      "displayName": "Hidden Power",
+      "type": "normal",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TM10"
+      ]
+    },
+    {
+      "id": "incinerate",
+      "displayName": "Incinerate",
+      "type": "fire",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TM59"
+      ]
+    },
+    {
+      "id": "round",
+      "displayName": "Round",
+      "type": "normal",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TR18"
+      ]
+    },
+    {
+      "id": "shockwave",
+      "displayName": "Shock Wave",
+      "type": "electric",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "snore",
+      "displayName": "Snore",
+      "type": "normal",
+      "category": "special",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T",
+        "M:TR08"
+      ]
+    },
+    {
+      "id": "afteryou",
+      "displayName": "After You",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "attract",
+      "displayName": "Attract",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TR09"
+      ]
+    },
+    {
+      "id": "autotomize",
+      "displayName": "Autotomize",
+      "type": "steel",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "L8"
+      ]
+    },
+    {
+      "id": "block",
+      "displayName": "Block",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "confide",
+      "displayName": "Confide",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M:TM100"
+      ]
+    },
+    {
+      "id": "curse",
+      "displayName": "Curse",
+      "type": "ghost",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "E"
+      ]
+    },
+    {
+      "id": "destinybond",
+      "displayName": "Destiny Bond",
+      "type": "ghost",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "E"
+      ]
+    },
+    {
+      "id": "doubleteam",
+      "displayName": "Double Team",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M:TM32"
+      ]
+    },
+    {
+      "id": "endure",
+      "displayName": "Endure",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "M:TR23"
+      ]
+    },
+    {
+      "id": "flash",
+      "displayName": "Flash",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M:TM70"
+      ]
+    },
+    {
+      "id": "irondefense",
+      "displayName": "Iron Defense",
+      "type": "steel",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "T",
+        "L32",
+        "M:TR26"
+      ]
+    },
+    {
+      "id": "lightscreen",
+      "displayName": "Light Screen",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M:TM16"
+      ]
+    },
+    {
+      "id": "magnetrise",
+      "displayName": "Magnet Rise",
+      "type": "electric",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "T",
+        "E"
+      ]
+    },
+    {
+      "id": "metalsound",
+      "displayName": "Metal Sound",
+      "type": "steel",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "E",
+        "L16"
+      ]
+    },
+    {
+      "id": "powertrick",
+      "displayName": "Power Trick",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "L40"
+      ]
+    },
+    {
+      "id": "protect",
+      "displayName": "Protect",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "M:TM17"
+      ]
+    },
+    {
+      "id": "rest",
+      "displayName": "Rest",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M:TM44"
+      ]
+    },
+    {
+      "id": "rockpolish",
+      "displayName": "Rock Polish",
+      "type": "rock",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M:TM69"
+      ]
+    },
+    {
+      "id": "safeguard",
+      "displayName": "Safeguard",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M:TM20"
+      ]
+    },
+    {
+      "id": "scaryface",
+      "displayName": "Scary Face",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "E"
+      ]
+    },
+    {
+      "id": "screech",
+      "displayName": "Screech",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "M:TR02"
+      ]
+    },
+    {
+      "id": "sleeptalk",
+      "displayName": "Sleep Talk",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M:TM88"
+      ]
+    },
+    {
+      "id": "spite",
+      "displayName": "Spite",
+      "type": "ghost",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "substitute",
+      "displayName": "Substitute",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M:TM90"
+      ]
+    },
+    {
+      "id": "sunnyday",
+      "displayName": "Sunny Day",
+      "type": "fire",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M:TM11"
+      ]
+    },
+    {
+      "id": "swagger",
+      "displayName": "Swagger",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "M:TM87"
+      ]
+    },
+    {
+      "id": "swordsdance",
+      "displayName": "Swords Dance",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "L44",
+        "M:TM75"
+      ]
+    },
+    {
+      "id": "toxic",
+      "displayName": "Toxic",
+      "type": "poison",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M:TM06"
+      ]
+    },
+    {
+      "id": "wideguard",
+      "displayName": "Wide Guard",
+      "type": "rock",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 3,
+      "methods": [
+        "E"
+      ]
+    },
+    {
+      "id": "willowisp",
+      "displayName": "Will-O-Wisp",
+      "type": "fire",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "M:TM61"
+      ]
+    }
+  ]
+}

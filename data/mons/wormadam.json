@@ -1,0 +1,806 @@
+{
+  "_curated": {
+    "speciesKey": "wormadam",
+    "displayName": "Wormadam",
+    "speciesId": "wormadam",
+    "source": "delta-curated",
+    "aliases": [
+      "Wormadam",
+      "wormadam"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "wormadam",
+    "speciesId": "wormadam",
+    "displayName": "Wormadam",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "abilities": [
+      "Anticipation",
+      "Overcoat"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 59,
+      "def": 85,
+      "spa": 79,
+      "spd": 105,
+      "spe": 36
+    },
+    "weightKg": 6.5,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": "Burmy",
+    "isStub": false
+  },
+  "legalMoves": [
+    {
+      "id": "gigaimpact",
+      "displayName": "Giga Impact",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 150,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "seedbomb",
+      "displayName": "Seed Bomb",
+      "type": "grass",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "facade",
+      "displayName": "Facade",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "secretpower",
+      "displayName": "Secret Power",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "suckerpunch",
+      "displayName": "Sucker Punch",
+      "type": "dark",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 1,
+      "methods": [
+        "L1",
+        "T"
+      ]
+    },
+    {
+      "id": "bugbite",
+      "displayName": "Bug Bite",
+      "type": "bug",
+      "category": "physical",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T",
+        "L1",
+        "L15"
+      ]
+    },
+    {
+      "id": "thief",
+      "displayName": "Thief",
+      "type": "dark",
+      "category": "physical",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "razorleaf",
+      "displayName": "Razor Leaf",
+      "type": "grass",
+      "category": "physical",
+      "basePower": 55,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "L26"
+      ]
+    },
+    {
+      "id": "tackle",
+      "displayName": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1"
+      ]
+    },
+    {
+      "id": "bulletseed",
+      "displayName": "Bullet Seed",
+      "type": "grass",
+      "category": "physical",
+      "basePower": 25,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "endeavor",
+      "displayName": "Endeavor",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "flail",
+      "displayName": "Flail",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L38"
+      ]
+    },
+    {
+      "id": "frustration",
+      "displayName": "Frustration",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "naturalgift",
+      "displayName": "Natural Gift",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "return",
+      "displayName": "Return",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "hyperbeam",
+      "displayName": "Hyper Beam",
+      "type": "normal",
+      "category": "special",
+      "basePower": 150,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "leafstorm",
+      "displayName": "Leaf Storm",
+      "type": "grass",
+      "category": "special",
+      "basePower": 130,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "L47"
+      ]
+    },
+    {
+      "id": "solarbeam",
+      "displayName": "Solar Beam",
+      "type": "grass",
+      "category": "special",
+      "basePower": 120,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "dreameater",
+      "displayName": "Dream Eater",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 100,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "bugbuzz",
+      "displayName": "Bug Buzz",
+      "type": "bug",
+      "category": "special",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L50"
+      ]
+    },
+    {
+      "id": "energyball",
+      "displayName": "Energy Ball",
+      "type": "grass",
+      "category": "special",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "psychic",
+      "displayName": "Psychic",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L44"
+      ]
+    },
+    {
+      "id": "uproar",
+      "displayName": "Uproar",
+      "type": "normal",
+      "category": "special",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "shadowball",
+      "displayName": "Shadow Ball",
+      "type": "ghost",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "gigadrain",
+      "displayName": "Giga Drain",
+      "type": "grass",
+      "category": "special",
+      "basePower": 75,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T",
+        "M"
+      ]
+    },
+    {
+      "id": "signalbeam",
+      "displayName": "Signal Beam",
+      "type": "bug",
+      "category": "special",
+      "basePower": 75,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "psybeam",
+      "displayName": "Psybeam",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 65,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L32"
+      ]
+    },
+    {
+      "id": "venoshock",
+      "displayName": "Venoshock",
+      "type": "poison",
+      "category": "special",
+      "basePower": 65,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "hiddenpower",
+      "displayName": "Hidden Power",
+      "type": "normal",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L20"
+      ]
+    },
+    {
+      "id": "round",
+      "displayName": "Round",
+      "type": "normal",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "electroweb",
+      "displayName": "Electroweb",
+      "type": "electric",
+      "category": "special",
+      "basePower": 55,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "confusion",
+      "displayName": "Confusion",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L23"
+      ]
+    },
+    {
+      "id": "snore",
+      "displayName": "Snore",
+      "type": "normal",
+      "category": "special",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "strugglebug",
+      "displayName": "Struggle Bug",
+      "type": "bug",
+      "category": "special",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "infestation",
+      "displayName": "Infestation",
+      "type": "bug",
+      "category": "special",
+      "basePower": 20,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "grassknot",
+      "displayName": "Grass Knot",
+      "type": "grass",
+      "category": "special",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "allyswitch",
+      "displayName": "Ally Switch",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 2,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "attract",
+      "displayName": "Attract",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L41"
+      ]
+    },
+    {
+      "id": "captivate",
+      "displayName": "Captivate",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L35",
+        "M"
+      ]
+    },
+    {
+      "id": "confide",
+      "displayName": "Confide",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "doubleteam",
+      "displayName": "Double Team",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "endure",
+      "displayName": "Endure",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "flash",
+      "displayName": "Flash",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "growth",
+      "displayName": "Growth",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "L29"
+      ]
+    },
+    {
+      "id": "protect",
+      "displayName": "Protect",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "M",
+        "L1",
+        "L10"
+      ]
+    },
+    {
+      "id": "psychup",
+      "displayName": "Psych Up",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "quiverdance",
+      "displayName": "Quiver Dance",
+      "type": "bug",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "L1"
+      ]
+    },
+    {
+      "id": "raindance",
+      "displayName": "Rain Dance",
+      "type": "water",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "rest",
+      "displayName": "Rest",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "safeguard",
+      "displayName": "Safeguard",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "skillswap",
+      "displayName": "Skill Swap",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "T",
+        "M"
+      ]
+    },
+    {
+      "id": "sleeptalk",
+      "displayName": "Sleep Talk",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "T"
+      ]
+    },
+    {
+      "id": "stringshot",
+      "displayName": "String Shot",
+      "type": "bug",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "substitute",
+      "displayName": "Substitute",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "sunnyday",
+      "displayName": "Sunny Day",
+      "type": "fire",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "swagger",
+      "displayName": "Swagger",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "synthesis",
+      "displayName": "Synthesis",
+      "type": "grass",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "telekinesis",
+      "displayName": "Telekinesis",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "toxic",
+      "displayName": "Toxic",
+      "type": "poison",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "worryseed",
+      "displayName": "Worry Seed",
+      "type": "grass",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    }
+  ]
+}

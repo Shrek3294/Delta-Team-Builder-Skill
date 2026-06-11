@@ -1,0 +1,622 @@
+{
+  "_curated": {
+    "speciesKey": "arctovish",
+    "displayName": "Arctovish",
+    "speciesId": "arctovish",
+    "source": "delta-curated",
+    "aliases": [
+      "Arctovish",
+      "arctovish"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "arctovish",
+    "speciesId": "arctovish",
+    "displayName": "Arctovish",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "abilities": [
+      "Water Absorb",
+      "Ice Body",
+      "Slush Rush"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 90,
+      "def": 100,
+      "spa": 80,
+      "spd": 90,
+      "spe": 55
+    },
+    "weightKg": 175,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": false
+  },
+  "legalMoves": [
+    {
+      "id": "gigaimpact",
+      "displayName": "Giga Impact",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 150,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "stoneedge",
+      "displayName": "Stone Edge",
+      "type": "rock",
+      "category": "physical",
+      "basePower": 100,
+      "accuracy": 80,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "bodyslam",
+      "displayName": "Body Slam",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 85,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "fishiousrend",
+      "displayName": "Fishious Rend",
+      "type": "water",
+      "category": "physical",
+      "basePower": 85,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L63"
+      ]
+    },
+    {
+      "id": "iciclecrash",
+      "displayName": "Icicle Crash",
+      "type": "ice",
+      "category": "physical",
+      "basePower": 85,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "L70"
+      ]
+    },
+    {
+      "id": "liquidation",
+      "displayName": "Liquidation",
+      "type": "water",
+      "category": "physical",
+      "basePower": 85,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "psychicfangs",
+      "displayName": "Psychic Fangs",
+      "type": "psychic",
+      "category": "physical",
+      "basePower": 85,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "crunch",
+      "displayName": "Crunch",
+      "type": "dark",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L56"
+      ]
+    },
+    {
+      "id": "dive",
+      "displayName": "Dive",
+      "type": "water",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "ironhead",
+      "displayName": "Iron Head",
+      "type": "steel",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "waterfall",
+      "displayName": "Waterfall",
+      "type": "water",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "zenheadbutt",
+      "displayName": "Zen Headbutt",
+      "type": "psychic",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "rockslide",
+      "displayName": "Rock Slide",
+      "type": "rock",
+      "category": "physical",
+      "basePower": 75,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "facade",
+      "displayName": "Facade",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "icefang",
+      "displayName": "Ice Fang",
+      "type": "ice",
+      "category": "physical",
+      "basePower": 65,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "avalanche",
+      "displayName": "Avalanche",
+      "type": "ice",
+      "category": "physical",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": -4,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "bite",
+      "displayName": "Bite",
+      "type": "dark",
+      "category": "physical",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L28"
+      ]
+    },
+    {
+      "id": "rocktomb",
+      "displayName": "Rock Tomb",
+      "type": "rock",
+      "category": "physical",
+      "basePower": 60,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "iciclespear",
+      "displayName": "Icicle Spear",
+      "type": "ice",
+      "category": "physical",
+      "basePower": 25,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "rockblast",
+      "displayName": "Rock Blast",
+      "type": "rock",
+      "category": "physical",
+      "basePower": 25,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "superfang",
+      "displayName": "Super Fang",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "L49"
+      ]
+    },
+    {
+      "id": "hyperbeam",
+      "displayName": "Hyper Beam",
+      "type": "normal",
+      "category": "special",
+      "basePower": 150,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "meteorbeam",
+      "displayName": "Meteor Beam",
+      "type": "rock",
+      "category": "special",
+      "basePower": 120,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "blizzard",
+      "displayName": "Blizzard",
+      "type": "ice",
+      "category": "special",
+      "basePower": 110,
+      "accuracy": 70,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L77"
+      ]
+    },
+    {
+      "id": "hydropump",
+      "displayName": "Hydro Pump",
+      "type": "water",
+      "category": "special",
+      "basePower": 110,
+      "accuracy": 80,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "icebeam",
+      "displayName": "Ice Beam",
+      "type": "ice",
+      "category": "special",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "surf",
+      "displayName": "Surf",
+      "type": "water",
+      "category": "special",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "freezedry",
+      "displayName": "Freeze-Dry",
+      "type": "ice",
+      "category": "special",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L42"
+      ]
+    },
+    {
+      "id": "brine",
+      "displayName": "Brine",
+      "type": "water",
+      "category": "special",
+      "basePower": 65,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "ancientpower",
+      "displayName": "Ancient Power",
+      "type": "rock",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L21"
+      ]
+    },
+    {
+      "id": "round",
+      "displayName": "Round",
+      "type": "normal",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "icywind",
+      "displayName": "Icy Wind",
+      "type": "ice",
+      "category": "special",
+      "basePower": 55,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L14"
+      ]
+    },
+    {
+      "id": "snore",
+      "displayName": "Snore",
+      "type": "normal",
+      "category": "special",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "powdersnow",
+      "displayName": "Powder Snow",
+      "type": "ice",
+      "category": "special",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1",
+        "S0"
+      ]
+    },
+    {
+      "id": "watergun",
+      "displayName": "Water Gun",
+      "type": "water",
+      "category": "special",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1",
+        "S0"
+      ]
+    },
+    {
+      "id": "whirlpool",
+      "displayName": "Whirlpool",
+      "type": "water",
+      "category": "special",
+      "basePower": 35,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "auroraveil",
+      "displayName": "Aurora Veil",
+      "type": "ice",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "L35"
+      ]
+    },
+    {
+      "id": "endure",
+      "displayName": "Endure",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "hail",
+      "displayName": "Hail",
+      "type": "ice",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "irondefense",
+      "displayName": "Iron Defense",
+      "type": "steel",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "protect",
+      "displayName": "Protect",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "M",
+        "L7",
+        "S0"
+      ]
+    },
+    {
+      "id": "raindance",
+      "displayName": "Rain Dance",
+      "type": "water",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "rest",
+      "displayName": "Rest",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "sleeptalk",
+      "displayName": "Sleep Talk",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "substitute",
+      "displayName": "Substitute",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    }
+  ]
+}

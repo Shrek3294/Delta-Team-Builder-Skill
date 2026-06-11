@@ -1,0 +1,74 @@
+{
+  "_curated": {
+    "speciesKey": "pokestar-mt2",
+    "displayName": "Pokestar MT2",
+    "speciesId": "pokestarmt2",
+    "source": "delta-curated",
+    "aliases": [
+      "Pokestar MT2",
+      "pokestar-mt2",
+      "pokestarmt2",
+      "pokestar mt2"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "pokestar-mt2",
+    "speciesId": "pokestarmt2",
+    "displayName": "Pokestar MT2",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Steel",
+      "Electric"
+    ],
+    "abilities": [
+      "Flash Fire"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 100,
+      "def": 100,
+      "spa": 100,
+      "spd": 100,
+      "spe": 100
+    },
+    "weightKg": 61,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": false
+  },
+  "legalMoves": []
+}

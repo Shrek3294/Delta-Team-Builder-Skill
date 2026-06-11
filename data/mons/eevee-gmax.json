@@ -1,0 +1,1112 @@
+{
+  "_curated": {
+    "speciesKey": "eevee-gmax",
+    "displayName": "Eevee-Gmax",
+    "speciesId": "eeveegmax",
+    "source": "delta-curated",
+    "aliases": [
+      "Eevee-Gmax",
+      "eevee-gmax",
+      "eeveegmax",
+      "Eevee Gmax",
+      "eevee gmax"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "eevee-gmax",
+    "speciesId": "eeveegmax",
+    "displayName": "Eevee-Gmax",
+    "forme": "Gmax",
+    "baseSpecies": "Eevee",
+    "types": [
+      "Normal"
+    ],
+    "abilities": [
+      "Run Away",
+      "Adaptability",
+      "Anticipation"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 55,
+      "def": 50,
+      "spa": 45,
+      "spd": 65,
+      "spe": 55
+    },
+    "weightKg": 0,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": false
+  },
+  "legalMoves": [
+    {
+      "id": "lastresort",
+      "displayName": "Last Resort",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 140,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L55",
+        "T",
+        "L41",
+        "L50"
+      ]
+    },
+    {
+      "id": "skullbash",
+      "displayName": "Skull Bash",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 130,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "V"
+      ]
+    },
+    {
+      "id": "doubleedge",
+      "displayName": "Double-Edge",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 120,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L50",
+        "V",
+        "L37",
+        "T"
+      ]
+    },
+    {
+      "id": "irontail",
+      "displayName": "Iron Tail",
+      "type": "steel",
+      "category": "physical",
+      "basePower": 100,
+      "accuracy": 75,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V",
+        "T",
+        "S1"
+      ]
+    },
+    {
+      "id": "takedown",
+      "displayName": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 90,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L40",
+        "V",
+        "L25",
+        "L43",
+        "L42"
+      ]
+    },
+    {
+      "id": "bodyslam",
+      "displayName": "Body Slam",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 85,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "dig",
+      "displayName": "Dig",
+      "type": "ground",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "facade",
+      "displayName": "Facade",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "headbutt",
+      "displayName": "Headbutt",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "retaliate",
+      "displayName": "Retaliate",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "secretpower",
+      "displayName": "Secret Power",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "bite",
+      "displayName": "Bite",
+      "type": "dark",
+      "category": "physical",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L25",
+        "V",
+        "L17",
+        "L29",
+        "S0",
+        "L30"
+      ]
+    },
+    {
+      "id": "covet",
+      "displayName": "Covet",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1",
+        "S6",
+        "T",
+        "E",
+        "L23",
+        "L21",
+        "S0"
+      ]
+    },
+    {
+      "id": "trailblaze",
+      "displayName": "Trailblaze",
+      "type": "grass",
+      "category": "physical",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "payday",
+      "displayName": "Pay Day",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "quickattack",
+      "displayName": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 1,
+      "methods": [
+        "L10",
+        "V",
+        "L13",
+        "S4",
+        "L22",
+        "S1",
+        "L23"
+      ]
+    },
+    {
+      "id": "tackle",
+      "displayName": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1",
+        "V",
+        "S6"
+      ]
+    },
+    {
+      "id": "doublekick",
+      "displayName": "Double Kick",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 30,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "E",
+        "V"
+      ]
+    },
+    {
+      "id": "rage",
+      "displayName": "Rage",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 20,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "V"
+      ]
+    },
+    {
+      "id": "bide",
+      "displayName": "Bide",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 1,
+      "methods": [
+        "V"
+      ]
+    },
+    {
+      "id": "flail",
+      "displayName": "Flail",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "E",
+        "V",
+        "S1"
+      ]
+    },
+    {
+      "id": "frustration",
+      "displayName": "Frustration",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "naturalgift",
+      "displayName": "Natural Gift",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "E",
+        "M"
+      ]
+    },
+    {
+      "id": "return",
+      "displayName": "Return",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V",
+        "S2"
+      ]
+    },
+    {
+      "id": "synchronoise",
+      "displayName": "Synchronoise",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 120,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "E"
+      ]
+    },
+    {
+      "id": "hypervoice",
+      "displayName": "Hyper Voice",
+      "type": "normal",
+      "category": "special",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "T"
+      ]
+    },
+    {
+      "id": "alluringvoice",
+      "displayName": "Alluring Voice",
+      "type": "fairy",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "shadowball",
+      "displayName": "Shadow Ball",
+      "type": "ghost",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "terablast",
+      "displayName": "Tera Blast",
+      "type": "normal",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "hiddenpower",
+      "displayName": "Hidden Power",
+      "type": "normal",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "round",
+      "displayName": "Round",
+      "type": "normal",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "swift",
+      "displayName": "Swift",
+      "type": "normal",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L20",
+        "V",
+        "L17",
+        "L10",
+        "S3",
+        "S4",
+        "D",
+        "T"
+      ]
+    },
+    {
+      "id": "snore",
+      "displayName": "Snore",
+      "type": "normal",
+      "category": "special",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "T",
+        "V"
+      ]
+    },
+    {
+      "id": "weatherball",
+      "displayName": "Weather Ball",
+      "type": "normal",
+      "category": "special",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "echoedvoice",
+      "displayName": "Echoed Voice",
+      "type": "normal",
+      "category": "special",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "S2"
+      ]
+    },
+    {
+      "id": "mudslap",
+      "displayName": "Mud-Slap",
+      "type": "ground",
+      "category": "special",
+      "basePower": 20,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "E",
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "storedpower",
+      "displayName": "Stored Power",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 20,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "E"
+      ]
+    },
+    {
+      "id": "trumpcard",
+      "displayName": "Trump Card",
+      "type": "normal",
+      "category": "special",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "L45",
+        "L57",
+        "S1"
+      ]
+    },
+    {
+      "id": "attract",
+      "displayName": "Attract",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V",
+        "S2",
+        "S0"
+      ]
+    },
+    {
+      "id": "babydolleyes",
+      "displayName": "Baby-Doll Eyes",
+      "type": "fairy",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 1,
+      "methods": [
+        "L15",
+        "L9",
+        "S5",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "batonpass",
+      "displayName": "Baton Pass",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L35",
+        "L33",
+        "V",
+        "L36"
+      ]
+    },
+    {
+      "id": "calmmind",
+      "displayName": "Calm Mind",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "captivate",
+      "displayName": "Captivate",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "E",
+        "M"
+      ]
+    },
+    {
+      "id": "celebrate",
+      "displayName": "Celebrate",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "S6",
+        "S5",
+        "S3"
+      ]
+    },
+    {
+      "id": "charm",
+      "displayName": "Charm",
+      "type": "fairy",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L45",
+        "L29",
+        "E",
+        "V",
+        "D"
+      ]
+    },
+    {
+      "id": "confide",
+      "displayName": "Confide",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "copycat",
+      "displayName": "Copycat",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "L30"
+      ]
+    },
+    {
+      "id": "curse",
+      "displayName": "Curse",
+      "type": "ghost",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "E",
+        "V"
+      ]
+    },
+    {
+      "id": "detect",
+      "displayName": "Detect",
+      "type": "fighting",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "E",
+        "V"
+      ]
+    },
+    {
+      "id": "doubleteam",
+      "displayName": "Double Team",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "endure",
+      "displayName": "Endure",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "M",
+        "E",
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "faketears",
+      "displayName": "Fake Tears",
+      "type": "dark",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "E"
+      ]
+    },
+    {
+      "id": "focusenergy",
+      "displayName": "Focus Energy",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "growl",
+      "displayName": "Growl",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1",
+        "V",
+        "L9",
+        "L15",
+        "L16"
+      ]
+    },
+    {
+      "id": "healbell",
+      "displayName": "Heal Bell",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "helpinghand",
+      "displayName": "Helping Hand",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 5,
+      "methods": [
+        "M",
+        "L1",
+        "V",
+        "S6",
+        "T",
+        "S4",
+        "S0"
+      ]
+    },
+    {
+      "id": "laserfocus",
+      "displayName": "Laser Focus",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "mimic",
+      "displayName": "Mimic",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "protect",
+      "displayName": "Protect",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "raindance",
+      "displayName": "Rain Dance",
+      "type": "water",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "reflect",
+      "displayName": "Reflect",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "V"
+      ]
+    },
+    {
+      "id": "refresh",
+      "displayName": "Refresh",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "L20"
+      ]
+    },
+    {
+      "id": "rest",
+      "displayName": "Rest",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "roar",
+      "displayName": "Roar",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": -6,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "sandattack",
+      "displayName": "Sand Attack",
+      "type": "ground",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L5",
+        "V",
+        "S5",
+        "S3",
+        "D",
+        "L8"
+      ]
+    },
+    {
+      "id": "sing",
+      "displayName": "Sing",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 55,
+      "priority": 0,
+      "methods": [
+        "S2"
+      ]
+    },
+    {
+      "id": "sleeptalk",
+      "displayName": "Sleep Talk",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "substitute",
+      "displayName": "Substitute",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "sunnyday",
+      "displayName": "Sunny Day",
+      "type": "fire",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "swagger",
+      "displayName": "Swagger",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "tailwhip",
+      "displayName": "Tail Whip",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1",
+        "V"
+      ]
+    },
+    {
+      "id": "tickle",
+      "displayName": "Tickle",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "E"
+      ]
+    },
+    {
+      "id": "toxic",
+      "displayName": "Toxic",
+      "type": "poison",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "V",
+        "M"
+      ]
+    },
+    {
+      "id": "wish",
+      "displayName": "Wish",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "E"
+      ]
+    },
+    {
+      "id": "workup",
+      "displayName": "Work Up",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "yawn",
+      "displayName": "Yawn",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "E"
+      ]
+    }
+  ]
+}

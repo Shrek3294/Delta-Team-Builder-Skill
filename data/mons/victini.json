@@ -1,0 +1,1333 @@
+{
+  "_curated": {
+    "speciesKey": "victini",
+    "displayName": "Victini",
+    "speciesId": "victini",
+    "source": "delta-curated",
+    "aliases": [
+      "Victini",
+      "victini"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "victini",
+    "speciesId": "victini",
+    "displayName": "Victini",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Psychic",
+      "Fire"
+    ],
+    "abilities": [
+      "Victory Star"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 100,
+      "def": 100,
+      "spa": 100,
+      "spd": 100,
+      "spe": 100
+    },
+    "weightKg": 4,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": false
+  },
+  "legalMoves": [
+    {
+      "id": "vcreate",
+      "displayName": "V-create",
+      "type": "fire",
+      "category": "physical",
+      "basePower": 180,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "L1",
+        "S7",
+        "S6",
+        "S3",
+        "S5",
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "gigaimpact",
+      "displayName": "Giga Impact",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 150,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "lastresort",
+      "displayName": "Last Resort",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 140,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "boltstrike",
+      "displayName": "Bolt Strike",
+      "type": "electric",
+      "category": "physical",
+      "basePower": 130,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "S2"
+      ]
+    },
+    {
+      "id": "doubleedge",
+      "displayName": "Double-Edge",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 120,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L70",
+        "L65"
+      ]
+    },
+    {
+      "id": "flareblitz",
+      "displayName": "Flare Blitz",
+      "type": "fire",
+      "category": "physical",
+      "basePower": 120,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L77",
+        "L73"
+      ]
+    },
+    {
+      "id": "megakick",
+      "displayName": "Mega Kick",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 120,
+      "accuracy": 75,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "fusionbolt",
+      "displayName": "Fusion Bolt",
+      "type": "electric",
+      "category": "physical",
+      "basePower": 100,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "S1"
+      ]
+    },
+    {
+      "id": "wildcharge",
+      "displayName": "Wild Charge",
+      "type": "electric",
+      "category": "physical",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "blazekick",
+      "displayName": "Blaze Kick",
+      "type": "fire",
+      "category": "physical",
+      "basePower": 85,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "bounce",
+      "displayName": "Bounce",
+      "type": "flying",
+      "category": "physical",
+      "basePower": 85,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "M",
+        "T"
+      ]
+    },
+    {
+      "id": "megapunch",
+      "displayName": "Mega Punch",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "zenheadbutt",
+      "displayName": "Zen Headbutt",
+      "type": "psychic",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L42",
+        "S7",
+        "T",
+        "L49"
+      ]
+    },
+    {
+      "id": "brickbreak",
+      "displayName": "Brick Break",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 75,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "firepunch",
+      "displayName": "Fire Punch",
+      "type": "fire",
+      "category": "physical",
+      "basePower": 75,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "T"
+      ]
+    },
+    {
+      "id": "thunderpunch",
+      "displayName": "Thunder Punch",
+      "type": "electric",
+      "category": "physical",
+      "basePower": 75,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "T"
+      ]
+    },
+    {
+      "id": "facade",
+      "displayName": "Facade",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "headbutt",
+      "displayName": "Headbutt",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L28",
+        "L17"
+      ]
+    },
+    {
+      "id": "secretpower",
+      "displayName": "Secret Power",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "uturn",
+      "displayName": "U-turn",
+      "type": "bug",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "flamecharge",
+      "displayName": "Flame Charge",
+      "type": "fire",
+      "category": "physical",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1",
+        "S7",
+        "M",
+        "L25"
+      ]
+    },
+    {
+      "id": "poweruppunch",
+      "displayName": "Power-Up Punch",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "quickattack",
+      "displayName": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 1,
+      "methods": [
+        "L1",
+        "S3",
+        "S4",
+        "S5",
+        "S0"
+      ]
+    },
+    {
+      "id": "rocksmash",
+      "displayName": "Rock Smash",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "fling",
+      "displayName": "Fling",
+      "type": "dark",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "frustration",
+      "displayName": "Frustration",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "return",
+      "displayName": "Return",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "reversal",
+      "displayName": "Reversal",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L56",
+        "L33",
+        "S6"
+      ]
+    },
+    {
+      "id": "hyperbeam",
+      "displayName": "Hyper Beam",
+      "type": "normal",
+      "category": "special",
+      "basePower": 150,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "blueflare",
+      "displayName": "Blue Flare",
+      "type": "fire",
+      "category": "special",
+      "basePower": 130,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "S2"
+      ]
+    },
+    {
+      "id": "overheat",
+      "displayName": "Overheat",
+      "type": "fire",
+      "category": "special",
+      "basePower": 130,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L84",
+        "L97"
+      ]
+    },
+    {
+      "id": "focusblast",
+      "displayName": "Focus Blast",
+      "type": "fighting",
+      "category": "special",
+      "basePower": 120,
+      "accuracy": 70,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "futuresight",
+      "displayName": "Future Sight",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 120,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "solarbeam",
+      "displayName": "Solar Beam",
+      "type": "grass",
+      "category": "special",
+      "basePower": 120,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "fireblast",
+      "displayName": "Fire Blast",
+      "type": "fire",
+      "category": "special",
+      "basePower": 110,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "thunder",
+      "displayName": "Thunder",
+      "type": "electric",
+      "category": "special",
+      "basePower": 110,
+      "accuracy": 70,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "fusionflare",
+      "displayName": "Fusion Flare",
+      "type": "fire",
+      "category": "special",
+      "basePower": 100,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "S1"
+      ]
+    },
+    {
+      "id": "inferno",
+      "displayName": "Inferno",
+      "type": "fire",
+      "category": "special",
+      "basePower": 100,
+      "accuracy": 50,
+      "priority": 0,
+      "methods": [
+        "L49",
+        "L57"
+      ]
+    },
+    {
+      "id": "searingshot",
+      "displayName": "Searing Shot",
+      "type": "fire",
+      "category": "special",
+      "basePower": 100,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L63",
+        "L1",
+        "S3",
+        "S1"
+      ]
+    },
+    {
+      "id": "heatwave",
+      "displayName": "Heat Wave",
+      "type": "fire",
+      "category": "special",
+      "basePower": 95,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M",
+        "T"
+      ]
+    },
+    {
+      "id": "energyball",
+      "displayName": "Energy Ball",
+      "type": "grass",
+      "category": "special",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "flamethrower",
+      "displayName": "Flamethrower",
+      "type": "fire",
+      "category": "special",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "psychic",
+      "displayName": "Psychic",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "thunderbolt",
+      "displayName": "Thunderbolt",
+      "type": "electric",
+      "category": "special",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "uproar",
+      "displayName": "Uproar",
+      "type": "normal",
+      "category": "special",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "T"
+      ]
+    },
+    {
+      "id": "dazzlinggleam",
+      "displayName": "Dazzling Gleam",
+      "type": "fairy",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "expandingforce",
+      "displayName": "Expanding Force",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "psyshock",
+      "displayName": "Psyshock",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "shadowball",
+      "displayName": "Shadow Ball",
+      "type": "ghost",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "mysticalfire",
+      "displayName": "Mystical Fire",
+      "type": "fire",
+      "category": "special",
+      "basePower": 75,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "signalbeam",
+      "displayName": "Signal Beam",
+      "type": "bug",
+      "category": "special",
+      "basePower": 75,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "flameburst",
+      "displayName": "Flame Burst",
+      "type": "fire",
+      "category": "special",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L41"
+      ]
+    },
+    {
+      "id": "scorchingsands",
+      "displayName": "Scorching Sands",
+      "type": "ground",
+      "category": "special",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "glaciate",
+      "displayName": "Glaciate",
+      "type": "ice",
+      "category": "special",
+      "basePower": 65,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "S2"
+      ]
+    },
+    {
+      "id": "hiddenpower",
+      "displayName": "Hidden Power",
+      "type": "normal",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "incinerate",
+      "displayName": "Incinerate",
+      "type": "fire",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L14",
+        "L1",
+        "M",
+        "S4",
+        "S0"
+      ]
+    },
+    {
+      "id": "round",
+      "displayName": "Round",
+      "type": "normal",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "shockwave",
+      "displayName": "Shock Wave",
+      "type": "electric",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "swift",
+      "displayName": "Swift",
+      "type": "normal",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "chargebeam",
+      "displayName": "Charge Beam",
+      "type": "electric",
+      "category": "special",
+      "basePower": 50,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "confusion",
+      "displayName": "Confusion",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1",
+        "S3",
+        "S4",
+        "S0"
+      ]
+    },
+    {
+      "id": "snore",
+      "displayName": "Snore",
+      "type": "normal",
+      "category": "special",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "T"
+      ]
+    },
+    {
+      "id": "firespin",
+      "displayName": "Fire Spin",
+      "type": "fire",
+      "category": "special",
+      "basePower": 35,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "storedpower",
+      "displayName": "Stored Power",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 20,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L21",
+        "L89",
+        "S6"
+      ]
+    },
+    {
+      "id": "finalgambit",
+      "displayName": "Final Gambit",
+      "type": "fighting",
+      "category": "special",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L91",
+        "L81"
+      ]
+    },
+    {
+      "id": "grassknot",
+      "displayName": "Grass Knot",
+      "type": "grass",
+      "category": "special",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "batonpass",
+      "displayName": "Baton Pass",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "celebrate",
+      "displayName": "Celebrate",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "S6"
+      ]
+    },
+    {
+      "id": "confide",
+      "displayName": "Confide",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "doubleteam",
+      "displayName": "Double Team",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "embargo",
+      "displayName": "Embargo",
+      "type": "dark",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "encore",
+      "displayName": "Encore",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "endure",
+      "displayName": "Endure",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "M",
+        "L35",
+        "L9",
+        "S4",
+        "S0"
+      ]
+    },
+    {
+      "id": "flash",
+      "displayName": "Flash",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "focusenergy",
+      "displayName": "Focus Energy",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L1"
+      ]
+    },
+    {
+      "id": "guardswap",
+      "displayName": "Guard Swap",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "helpinghand",
+      "displayName": "Helping Hand",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 5,
+      "methods": [
+        "M",
+        "T"
+      ]
+    },
+    {
+      "id": "laserfocus",
+      "displayName": "Laser Focus",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "lightscreen",
+      "displayName": "Light Screen",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "magiccoat",
+      "displayName": "Magic Coat",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "powerswap",
+      "displayName": "Power Swap",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "protect",
+      "displayName": "Protect",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "psychup",
+      "displayName": "Psych Up",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "rest",
+      "displayName": "Rest",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "roleplay",
+      "displayName": "Role Play",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "safeguard",
+      "displayName": "Safeguard",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "skillswap",
+      "displayName": "Skill Swap",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "T"
+      ]
+    },
+    {
+      "id": "sleeptalk",
+      "displayName": "Sleep Talk",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "T"
+      ]
+    },
+    {
+      "id": "speedswap",
+      "displayName": "Speed Swap",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "substitute",
+      "displayName": "Substitute",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "sunnyday",
+      "displayName": "Sunny Day",
+      "type": "fire",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "swagger",
+      "displayName": "Swagger",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "M",
+        "S5"
+      ]
+    },
+    {
+      "id": "taunt",
+      "displayName": "Taunt",
+      "type": "dark",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "telekinesis",
+      "displayName": "Telekinesis",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "T",
+        "M"
+      ]
+    },
+    {
+      "id": "thunderwave",
+      "displayName": "Thunder Wave",
+      "type": "electric",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "toxic",
+      "displayName": "Toxic",
+      "type": "poison",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "trick",
+      "displayName": "Trick",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "T"
+      ]
+    },
+    {
+      "id": "trickroom",
+      "displayName": "Trick Room",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": -7,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "willowisp",
+      "displayName": "Will-O-Wisp",
+      "type": "fire",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "workup",
+      "displayName": "Work Up",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L7",
+        "S7"
+      ]
+    }
+  ]
+}

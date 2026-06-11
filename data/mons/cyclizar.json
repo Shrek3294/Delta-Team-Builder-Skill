@@ -1,0 +1,753 @@
+{
+  "_curated": {
+    "speciesKey": "cyclizar",
+    "displayName": "Cyclizar",
+    "speciesId": "cyclizar",
+    "source": "delta-curated",
+    "aliases": [
+      "Cyclizar",
+      "cyclizar"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "cyclizar",
+    "speciesId": "cyclizar",
+    "displayName": "Cyclizar",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Dragon",
+      "Normal"
+    ],
+    "abilities": [
+      "Shed Skin",
+      "Regenerator"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 95,
+      "def": 65,
+      "spa": 85,
+      "spd": 65,
+      "spe": 121
+    },
+    "weightKg": 63,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": false
+  },
+  "legalMoves": [
+    {
+      "id": "gigaimpact",
+      "displayName": "Giga Impact",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 150,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "doubleedge",
+      "displayName": "Double-Edge",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 120,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L51"
+      ]
+    },
+    {
+      "id": "outrage",
+      "displayName": "Outrage",
+      "type": "dragon",
+      "category": "physical",
+      "basePower": 120,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "powerwhip",
+      "displayName": "Power Whip",
+      "type": "grass",
+      "category": "physical",
+      "basePower": 120,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "E"
+      ]
+    },
+    {
+      "id": "dragonrush",
+      "displayName": "Dragon Rush",
+      "type": "dragon",
+      "category": "physical",
+      "basePower": 100,
+      "accuracy": 75,
+      "priority": 0,
+      "methods": [
+        "L57"
+      ]
+    },
+    {
+      "id": "irontail",
+      "displayName": "Iron Tail",
+      "type": "steel",
+      "category": "physical",
+      "basePower": 100,
+      "accuracy": 75,
+      "priority": 0,
+      "methods": [
+        "E"
+      ]
+    },
+    {
+      "id": "supercellslam",
+      "displayName": "Supercell Slam",
+      "type": "electric",
+      "category": "physical",
+      "basePower": 100,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "aquatail",
+      "displayName": "Aqua Tail",
+      "type": "water",
+      "category": "physical",
+      "basePower": 90,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "E"
+      ]
+    },
+    {
+      "id": "takedown",
+      "displayName": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 90,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "wildcharge",
+      "displayName": "Wild Charge",
+      "type": "electric",
+      "category": "physical",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "bodyslam",
+      "displayName": "Body Slam",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 85,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "crunch",
+      "displayName": "Crunch",
+      "type": "dark",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "dragonclaw",
+      "displayName": "Dragon Claw",
+      "type": "dragon",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L36"
+      ]
+    },
+    {
+      "id": "icespinner",
+      "displayName": "Ice Spinner",
+      "type": "ice",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "ironhead",
+      "displayName": "Iron Head",
+      "type": "steel",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "temperflare",
+      "displayName": "Temper Flare",
+      "type": "fire",
+      "category": "physical",
+      "basePower": 75,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "facade",
+      "displayName": "Facade",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "uturn",
+      "displayName": "U-turn",
+      "type": "bug",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L27"
+      ]
+    },
+    {
+      "id": "firefang",
+      "displayName": "Fire Fang",
+      "type": "fire",
+      "category": "physical",
+      "basePower": 65,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "knockoff",
+      "displayName": "Knock Off",
+      "type": "dark",
+      "category": "physical",
+      "basePower": 65,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "E"
+      ]
+    },
+    {
+      "id": "thunderfang",
+      "displayName": "Thunder Fang",
+      "type": "electric",
+      "category": "physical",
+      "basePower": 65,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "aerialace",
+      "displayName": "Aerial Ace",
+      "type": "flying",
+      "category": "physical",
+      "basePower": 60,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "bite",
+      "displayName": "Bite",
+      "type": "dark",
+      "category": "physical",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L23"
+      ]
+    },
+    {
+      "id": "breakingswipe",
+      "displayName": "Breaking Swipe",
+      "type": "dragon",
+      "category": "physical",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L14"
+      ]
+    },
+    {
+      "id": "dragontail",
+      "displayName": "Dragon Tail",
+      "type": "dragon",
+      "category": "physical",
+      "basePower": 60,
+      "accuracy": 90,
+      "priority": -6,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "thief",
+      "displayName": "Thief",
+      "type": "dark",
+      "category": "physical",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "acrobatics",
+      "displayName": "Acrobatics",
+      "type": "flying",
+      "category": "physical",
+      "basePower": 55,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "rapidspin",
+      "displayName": "Rapid Spin",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L7"
+      ]
+    },
+    {
+      "id": "trailblaze",
+      "displayName": "Trailblaze",
+      "type": "grass",
+      "category": "physical",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "quickattack",
+      "displayName": "Quick Attack",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 1,
+      "methods": [
+        "L18"
+      ]
+    },
+    {
+      "id": "tackle",
+      "displayName": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1"
+      ]
+    },
+    {
+      "id": "scaleshot",
+      "displayName": "Scale Shot",
+      "type": "dragon",
+      "category": "physical",
+      "basePower": 25,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "endeavor",
+      "displayName": "Endeavor",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "hyperbeam",
+      "displayName": "Hyper Beam",
+      "type": "normal",
+      "category": "special",
+      "basePower": 150,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "dracometeor",
+      "displayName": "Draco Meteor",
+      "type": "dragon",
+      "category": "special",
+      "basePower": 130,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "overheat",
+      "displayName": "Overheat",
+      "type": "fire",
+      "category": "special",
+      "basePower": 130,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "hypervoice",
+      "displayName": "Hyper Voice",
+      "type": "normal",
+      "category": "special",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "thunderbolt",
+      "displayName": "Thunderbolt",
+      "type": "electric",
+      "category": "special",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "uproar",
+      "displayName": "Uproar",
+      "type": "normal",
+      "category": "special",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "dragonpulse",
+      "displayName": "Dragon Pulse",
+      "type": "dragon",
+      "category": "special",
+      "basePower": 85,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L45"
+      ]
+    },
+    {
+      "id": "terablast",
+      "displayName": "Tera Blast",
+      "type": "normal",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "mudshot",
+      "displayName": "Mud Shot",
+      "type": "ground",
+      "category": "special",
+      "basePower": 55,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "mudslap",
+      "displayName": "Mud-Slap",
+      "type": "ground",
+      "category": "special",
+      "basePower": 20,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "agility",
+      "displayName": "Agility",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "dragoncheer",
+      "displayName": "Dragon Cheer",
+      "type": "dragon",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "endure",
+      "displayName": "Endure",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "growl",
+      "displayName": "Growl",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1"
+      ]
+    },
+    {
+      "id": "protect",
+      "displayName": "Protect",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "raindance",
+      "displayName": "Rain Dance",
+      "type": "water",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "rest",
+      "displayName": "Rest",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "shedtail",
+      "displayName": "Shed Tail",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "L31"
+      ]
+    },
+    {
+      "id": "shiftgear",
+      "displayName": "Shift Gear",
+      "type": "steel",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "L40"
+      ]
+    },
+    {
+      "id": "sleeptalk",
+      "displayName": "Sleep Talk",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "substitute",
+      "displayName": "Substitute",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "sunnyday",
+      "displayName": "Sunny Day",
+      "type": "fire",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "taunt",
+      "displayName": "Taunt",
+      "type": "dark",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L11"
+      ]
+    }
+  ]
+}

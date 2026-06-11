@@ -1,0 +1,1594 @@
+{
+  "_curated": {
+    "speciesKey": "hypno",
+    "displayName": "Hypno",
+    "speciesId": "hypno",
+    "source": "delta-curated",
+    "aliases": [
+      "Hypno",
+      "hypno"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "hypno",
+    "speciesId": "hypno",
+    "displayName": "Hypno",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Psychic"
+    ],
+    "abilities": [
+      "Insomnia",
+      "Forewarn",
+      "Inner Focus"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 73,
+      "def": 70,
+      "spa": 73,
+      "spd": 115,
+      "spe": 67
+    },
+    "weightKg": 75.6,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": "Drowzee",
+    "isStub": false
+  },
+  "legalMoves": [
+    {
+      "id": "focuspunch",
+      "displayName": "Focus Punch",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 150,
+      "accuracy": 100,
+      "priority": -3,
+      "methods": [
+        "M",
+        "T"
+      ]
+    },
+    {
+      "id": "gigaimpact",
+      "displayName": "Giga Impact",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 150,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "skullbash",
+      "displayName": "Skull Bash",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 130,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "V"
+      ]
+    },
+    {
+      "id": "doubleedge",
+      "displayName": "Double-Edge",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 120,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "megakick",
+      "displayName": "Mega Kick",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 120,
+      "accuracy": 75,
+      "priority": 0,
+      "methods": [
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "dynamicpunch",
+      "displayName": "Dynamic Punch",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 100,
+      "accuracy": 50,
+      "priority": 0,
+      "methods": [
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "foulplay",
+      "displayName": "Foul Play",
+      "type": "dark",
+      "category": "physical",
+      "basePower": 95,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "takedown",
+      "displayName": "Take Down",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 90,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "bodyslam",
+      "displayName": "Body Slam",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 85,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "bodypress",
+      "displayName": "Body Press",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "megapunch",
+      "displayName": "Mega Punch",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "submission",
+      "displayName": "Submission",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 80,
+      "priority": 0,
+      "methods": [
+        "V"
+      ]
+    },
+    {
+      "id": "zenheadbutt",
+      "displayName": "Zen Headbutt",
+      "type": "psychic",
+      "category": "physical",
+      "basePower": 80,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L32",
+        "T",
+        "L41",
+        "L64"
+      ]
+    },
+    {
+      "id": "brickbreak",
+      "displayName": "Brick Break",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 75,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "drainpunch",
+      "displayName": "Drain Punch",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 75,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "T"
+      ]
+    },
+    {
+      "id": "firepunch",
+      "displayName": "Fire Punch",
+      "type": "fire",
+      "category": "physical",
+      "basePower": 75,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "icepunch",
+      "displayName": "Ice Punch",
+      "type": "ice",
+      "category": "physical",
+      "basePower": 75,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "thunderpunch",
+      "displayName": "Thunder Punch",
+      "type": "electric",
+      "category": "physical",
+      "basePower": 75,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "facade",
+      "displayName": "Facade",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "headbutt",
+      "displayName": "Headbutt",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L13",
+        "V",
+        "T",
+        "L15",
+        "L17"
+      ]
+    },
+    {
+      "id": "secretpower",
+      "displayName": "Secret Power",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "wakeupslap",
+      "displayName": "Wake-Up Slap",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 70,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L29"
+      ]
+    },
+    {
+      "id": "knockoff",
+      "displayName": "Knock Off",
+      "type": "dark",
+      "category": "physical",
+      "basePower": 65,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "lowsweep",
+      "displayName": "Low Sweep",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 65,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "thief",
+      "displayName": "Thief",
+      "type": "dark",
+      "category": "physical",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "trailblaze",
+      "displayName": "Trailblaze",
+      "type": "grass",
+      "category": "physical",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "pound",
+      "displayName": "Pound",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1",
+        "V"
+      ]
+    },
+    {
+      "id": "poweruppunch",
+      "displayName": "Power-Up Punch",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "rage",
+      "displayName": "Rage",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 20,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "V"
+      ]
+    },
+    {
+      "id": "bide",
+      "displayName": "Bide",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 1,
+      "methods": [
+        "V"
+      ]
+    },
+    {
+      "id": "counter",
+      "displayName": "Counter",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": -5,
+      "methods": [
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "endeavor",
+      "displayName": "Endeavor",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "fling",
+      "displayName": "Fling",
+      "type": "dark",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "frustration",
+      "displayName": "Frustration",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "lowkick",
+      "displayName": "Low Kick",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "T"
+      ]
+    },
+    {
+      "id": "naturalgift",
+      "displayName": "Natural Gift",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "return",
+      "displayName": "Return",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "seismictoss",
+      "displayName": "Seismic Toss",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "hyperbeam",
+      "displayName": "Hyper Beam",
+      "type": "normal",
+      "category": "special",
+      "basePower": 150,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "focusblast",
+      "displayName": "Focus Blast",
+      "type": "fighting",
+      "category": "special",
+      "basePower": 120,
+      "accuracy": 70,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "futuresight",
+      "displayName": "Future Sight",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 120,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L56",
+        "L1",
+        "V",
+        "L61",
+        "L69",
+        "L57"
+      ]
+    },
+    {
+      "id": "synchronoise",
+      "displayName": "Synchronoise",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 120,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L37"
+      ]
+    },
+    {
+      "id": "zapcannon",
+      "displayName": "Zap Cannon",
+      "type": "electric",
+      "category": "special",
+      "basePower": 120,
+      "accuracy": 50,
+      "priority": 0,
+      "methods": [
+        "V"
+      ]
+    },
+    {
+      "id": "dreameater",
+      "displayName": "Dream Eater",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 100,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "V",
+        "M",
+        "T"
+      ]
+    },
+    {
+      "id": "psychic",
+      "displayName": "Psychic",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L42",
+        "V",
+        "L49",
+        "L50",
+        "L35",
+        "S0"
+      ]
+    },
+    {
+      "id": "dazzlinggleam",
+      "displayName": "Dazzling Gleam",
+      "type": "fairy",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "expandingforce",
+      "displayName": "Expanding Force",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "psyshock",
+      "displayName": "Psyshock",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L51",
+        "L57"
+      ]
+    },
+    {
+      "id": "shadowball",
+      "displayName": "Shadow Ball",
+      "type": "ghost",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V",
+        "S0"
+      ]
+    },
+    {
+      "id": "terablast",
+      "displayName": "Tera Blast",
+      "type": "normal",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "triattack",
+      "displayName": "Tri Attack",
+      "type": "normal",
+      "category": "special",
+      "basePower": 80,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "V"
+      ]
+    },
+    {
+      "id": "psychicnoise",
+      "displayName": "Psychic Noise",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 75,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "signalbeam",
+      "displayName": "Signal Beam",
+      "type": "bug",
+      "category": "special",
+      "basePower": 75,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "hex",
+      "displayName": "Hex",
+      "type": "ghost",
+      "category": "special",
+      "basePower": 65,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "psybeam",
+      "displayName": "Psybeam",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 65,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L21",
+        "V",
+        "L25",
+        "L28"
+      ]
+    },
+    {
+      "id": "hiddenpower",
+      "displayName": "Hidden Power",
+      "type": "normal",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "round",
+      "displayName": "Round",
+      "type": "normal",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "swift",
+      "displayName": "Swift",
+      "type": "normal",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "confusion",
+      "displayName": "Confusion",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1",
+        "V"
+      ]
+    },
+    {
+      "id": "drainingkiss",
+      "displayName": "Draining Kiss",
+      "type": "fairy",
+      "category": "special",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "snore",
+      "displayName": "Snore",
+      "type": "normal",
+      "category": "special",
+      "basePower": 50,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "T",
+        "V"
+      ]
+    },
+    {
+      "id": "storedpower",
+      "displayName": "Stored Power",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 20,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "grassknot",
+      "displayName": "Grass Knot",
+      "type": "grass",
+      "category": "special",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "nightshade",
+      "displayName": "Night Shade",
+      "type": "ghost",
+      "category": "special",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "psywave",
+      "displayName": "Psywave",
+      "type": "psychic",
+      "category": "special",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "V"
+      ]
+    },
+    {
+      "id": "allyswitch",
+      "displayName": "Ally Switch",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 2,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "attract",
+      "displayName": "Attract",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "barrier",
+      "displayName": "Barrier",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "V"
+      ]
+    },
+    {
+      "id": "batonpass",
+      "displayName": "Baton Pass",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "S0"
+      ]
+    },
+    {
+      "id": "calmmind",
+      "displayName": "Calm Mind",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "captivate",
+      "displayName": "Captivate",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "confide",
+      "displayName": "Confide",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "confuseray",
+      "displayName": "Confuse Ray",
+      "type": "ghost",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "curse",
+      "displayName": "Curse",
+      "type": "ghost",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "disable",
+      "displayName": "Disable",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1",
+        "V"
+      ]
+    },
+    {
+      "id": "doubleteam",
+      "displayName": "Double Team",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "encore",
+      "displayName": "Encore",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "endure",
+      "displayName": "Endure",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "M",
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "flash",
+      "displayName": "Flash",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "V",
+        "M"
+      ]
+    },
+    {
+      "id": "haze",
+      "displayName": "Haze",
+      "type": "ice",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "helpinghand",
+      "displayName": "Helping Hand",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 5,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "hypnosis",
+      "displayName": "Hypnosis",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 60,
+      "priority": 0,
+      "methods": [
+        "L1",
+        "V"
+      ]
+    },
+    {
+      "id": "imprison",
+      "displayName": "Imprison",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "lightscreen",
+      "displayName": "Light Screen",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "magiccoat",
+      "displayName": "Magic Coat",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "magicroom",
+      "displayName": "Magic Room",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "meditate",
+      "displayName": "Meditate",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "V",
+        "L21",
+        "L29",
+        "S0"
+      ]
+    },
+    {
+      "id": "metronome",
+      "displayName": "Metronome",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "mimic",
+      "displayName": "Mimic",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "nastyplot",
+      "displayName": "Nasty Plot",
+      "type": "dark",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L47",
+        "V",
+        "L1",
+        "L53",
+        "L55"
+      ]
+    },
+    {
+      "id": "nightmare",
+      "displayName": "Nightmare",
+      "type": "ghost",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1",
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "poisongas",
+      "displayName": "Poison Gas",
+      "type": "poison",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "L17",
+        "V",
+        "L18",
+        "L21"
+      ]
+    },
+    {
+      "id": "protect",
+      "displayName": "Protect",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "psychup",
+      "displayName": "Psych Up",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "L25",
+        "L33",
+        "V",
+        "T",
+        "L43"
+      ]
+    },
+    {
+      "id": "psychicterrain",
+      "displayName": "Psychic Terrain",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "raindance",
+      "displayName": "Rain Dance",
+      "type": "water",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "recycle",
+      "displayName": "Recycle",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "T",
+        "M"
+      ]
+    },
+    {
+      "id": "reflect",
+      "displayName": "Reflect",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "rest",
+      "displayName": "Rest",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "roleplay",
+      "displayName": "Role Play",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "safeguard",
+      "displayName": "Safeguard",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "scaryface",
+      "displayName": "Scary Face",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "skillswap",
+      "displayName": "Skill Swap",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "T"
+      ]
+    },
+    {
+      "id": "sleeptalk",
+      "displayName": "Sleep Talk",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "snatch",
+      "displayName": "Snatch",
+      "type": "dark",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 4,
+      "methods": [
+        "T",
+        "M"
+      ]
+    },
+    {
+      "id": "substitute",
+      "displayName": "Substitute",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "sunnyday",
+      "displayName": "Sunny Day",
+      "type": "fire",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "swagger",
+      "displayName": "Swagger",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 85,
+      "priority": 0,
+      "methods": [
+        "L37",
+        "M",
+        "L45",
+        "V",
+        "T",
+        "L49"
+      ]
+    },
+    {
+      "id": "switcheroo",
+      "displayName": "Switcheroo",
+      "type": "dark",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1"
+      ]
+    },
+    {
+      "id": "taunt",
+      "displayName": "Taunt",
+      "type": "dark",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "telekinesis",
+      "displayName": "Telekinesis",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "T",
+        "M"
+      ]
+    },
+    {
+      "id": "teleport",
+      "displayName": "Teleport",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": -6,
+      "methods": [
+        "V"
+      ]
+    },
+    {
+      "id": "thunderwave",
+      "displayName": "Thunder Wave",
+      "type": "electric",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V",
+        "T"
+      ]
+    },
+    {
+      "id": "torment",
+      "displayName": "Torment",
+      "type": "dark",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "toxic",
+      "displayName": "Toxic",
+      "type": "poison",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "id": "trick",
+      "displayName": "Trick",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M",
+        "T"
+      ]
+    },
+    {
+      "id": "trickroom",
+      "displayName": "Trick Room",
+      "type": "psychic",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": -7,
+      "methods": [
+        "M"
+      ]
+    }
+  ]
+}

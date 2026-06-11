@@ -1,0 +1,86 @@
+{
+  "_curated": {
+    "speciesKey": "steelix-delta",
+    "displayName": "Steelix-Delta",
+    "speciesId": "steelix-delta",
+    "source": "delta-curated",
+    "aliases": [
+      "Steelix-Delta",
+      "steelix-delta",
+      "steelixdelta",
+      "Steelix Delta",
+      "delta-steelix",
+      "Delta Steelix",
+      "deltasteelix",
+      "delta steelix",
+      "steelix delta"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "steelix-delta",
+    "speciesId": "steelix-delta",
+    "displayName": "Steelix-Delta",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Ground",
+      "Psychic"
+    ],
+    "abilities": [
+      "Overcoat",
+      "Telepathy",
+      "Regenerator"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 55,
+      "def": 65,
+      "spa": 75,
+      "spd": 200,
+      "spe": 30
+    },
+    "weightKg": 350,
+    "classification": "Psychic Snake Pokemon",
+    "obtainMethods": [
+      "Evolve Onix by using Link Cable while holding a Shulker Shell"
+    ],
+    "signatureNotes": [
+      "[ability] Planar Collapse: On switch-in, the user sets Gravity for 4 turns."
+    ],
+    "prevo": null,
+    "isStub": true
+  },
+  "legalMoves": [],
+  "_note": "STUB worksheet \u2014 Showdown pokedex.js does not contain this custom Delta mon. legalMoves is empty; fill _curated.moves from the Discord thread / wiki / in-game data."
+}

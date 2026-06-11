@@ -1,0 +1,155 @@
+{
+  "_curated": {
+    "speciesKey": "beldum-delta",
+    "displayName": "Beldum-Delta",
+    "speciesId": "beldum-delta",
+    "source": "delta-curated",
+    "aliases": [
+      "Beldum-Delta",
+      "beldum-delta",
+      "beldumdelta",
+      "Beldum Delta",
+      "delta-beldum",
+      "Delta Beldum",
+      "deltabeldum",
+      "delta beldum",
+      "beldum delta"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "beldum-delta",
+    "speciesId": "beldum-delta",
+    "displayName": "Beldum-Delta",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Rock",
+      "Grass"
+    ],
+    "abilities": [
+      "Bulletproof",
+      "Levitate"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 55,
+      "def": 80,
+      "spa": 35,
+      "spd": 60,
+      "spe": 30
+    },
+    "weightKg": 77,
+    "classification": "Ancient Ball Pokemon",
+    "obtainMethods": [
+      "Spawns in Jungles"
+    ],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": false
+  },
+  "legalMoves": [
+    {
+      "id": "rocktomb",
+      "displayName": "Rock Tomb",
+      "type": "rock",
+      "category": "physical",
+      "basePower": 60,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "tackle",
+      "displayName": "Tackle",
+      "type": "normal",
+      "category": "physical",
+      "basePower": 40,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "L1"
+      ]
+    },
+    {
+      "id": "meteorbeam",
+      "displayName": "Meteor Beam",
+      "type": "rock",
+      "category": "special",
+      "basePower": 120,
+      "accuracy": 90,
+      "priority": 0,
+      "methods": [
+        "T"
+      ]
+    },
+    {
+      "id": "energyball",
+      "displayName": "Energy Ball",
+      "type": "grass",
+      "category": "special",
+      "basePower": 90,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "ancientpower",
+      "displayName": "Ancient Power",
+      "type": "rock",
+      "category": "special",
+      "basePower": 60,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "M"
+      ]
+    },
+    {
+      "id": "n/a",
+      "displayName": "N/A",
+      "type": null,
+      "category": null,
+      "basePower": 0,
+      "accuracy": null,
+      "priority": 0,
+      "methods": [
+        "E"
+      ]
+    }
+  ]
+}

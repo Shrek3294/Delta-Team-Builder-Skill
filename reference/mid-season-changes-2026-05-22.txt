@@ -1,0 +1,140 @@
+Changes 5-22-2026
+
+---------------------------------------------------------------------------
+
+NERFS:
+		
+Draculedge:
+	Stats:
+		HP: 64
+		Atk: 144 --> 132 -12
+		Def: 76
+		SpAtk: 120
+		SpDef: 96 --> 108 +12
+		Speed: 100
+
+		BST: 600
+		
+Spiritomb-Unbound:
+	Spectre Onslaught:
+		The three strikes following the first strike deal 10% --> 7.5% the original damage.
+		
+Klinklang-Delta Line:
+	TM/Tutor:
+		Loses Earth Power
+		Learns Trick
+		
+Iron Pilot:
+	Stats:
+		HP: 78
+		Atk: 124 --> 118 -6
+		Def: 84
+		SpAtk: 136 --> 122 -14
+		SpDef: 56 --> 76 +20
+		Speed: 112
+
+		BST: 590
+		
+---------------------------------------------------------------------------
+
+BUFFS:
+
+Snorlax-Delta (Cherry):
+	Cherry Blessing:
+		Cherry Blessing now afflicts the opponent with Leech Seed. If the opponent is already Leeched, then the opponent will become drowsy.
+		
+Magoodra:
+	Stats:
+		HP: 68 --> 76 +8
+		Atk: 112 --> 100 -12
+		Def: 140 --> 152 +12
+		SpAtk: 116 --> 108 -8
+		SpDef: 60 --> 68 +8
+		Speed: 64 --> 56 -8
+
+		BST: 560
+				
+Iron Sentinel:
+	Forecast Warning:
+		Forecast Warning activates immediately in Rain --> Any weather. Additionally, the base power of the move will increase to 130 should it activate immediately.
+
+Apex Tyrant:
+	TM:
+		Learns U-Turn
+		
+Striding Sun:
+	Stats:
+		HP: 61 --> 111 +50
+		Atk: 145 --> 163 +18
+		Def: 159
+		SpAtk: 91
+		SpDef: 53
+		Speed: 81 --> 93 +12
+
+		BST: 590 --> 670 +80
+		
+		TM:
+			+ Dragon Dance
+			
+		Level Move:
+			Outrage --> Helios Storm
+			
+		Helios Storm:
+			Type: Dragon
+			Category: Physical
+			PP: 5 (Max: 8)
+			Power: 100
+			Accuracy: 100%
+			
+		Helios Storm inflicts damage, ignoring all ignorable Abilities during the execution of that move.
+		
+Iron Moon:
+	Stats:
+		HP: 50 --> 68 +18
+		Atk: 94
+		Def: 74
+		SpAtk: 152 --> 168 +18
+		SpDef: 146
+		Speed: 74 --> 120 +46
+
+		BST: 590 --> 670 +80
+		
+		TM:
+			+ Focus Blast
+			
+		Level Move:
+			Steel Beam --> Selene Pulse
+			
+		Selene Pulse:
+			Type: Steel
+			Category: Special
+			PP: 5 (Max: 8)
+			Power: 100
+			Accuracy: 100%
+			
+		Selene Pulse inflicts damage, ignoring all ignorable Abilities during the execution of that move.
+		
+---------------------------------------------------------------------------
+
+ZA-Mega Pokemon:
+	Updated Mega Delphox, Mega Dragonite, Mega Meganium, Mega Feraligatr, Mega Skarmory, Mega Emboar, and Mega Chandelure to have their ZA Abilities implemented.
+	
+Z-Moves:
+	Added new signature Z-Moves for the following Pokemon:	
+		Azumarill-Delta
+		Drifblimp
+		Zeraora-Delta
+		Hydrapple-Ultra
+		Glimmora-Ultra
+		Victini-Delta
+		Mewrai
+		
+Striding Sun and Iron Moon are now banned in ranked and gyms.
+Gardevoir-ATOM and Gallade-ATOM are banned in ranked and gyms until their obtainment method is out.
+
+---------------------------------------------------------------------------
+
+Bug Fixes:
+
+	Fixed Prospect activating SpDef boost from future moves when they fail.
+	Flashpoint Fists is now a punching move.

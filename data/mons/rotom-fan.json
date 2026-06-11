@@ -1,0 +1,89 @@
+{
+  "_curated": {
+    "speciesKey": "rotom-fan",
+    "displayName": "Rotom-Fan",
+    "speciesId": "rotomfan",
+    "source": "delta-curated",
+    "aliases": [
+      "Rotom-Fan",
+      "rotom-fan",
+      "rotomfan",
+      "Rotom Fan",
+      "rotom fan"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "rotom-fan",
+    "speciesId": "rotomfan",
+    "displayName": "Rotom-Fan",
+    "forme": "Fan",
+    "baseSpecies": "Rotom",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "abilities": [
+      "Levitate"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 65,
+      "def": 107,
+      "spa": 105,
+      "spd": 107,
+      "spe": 86
+    },
+    "weightKg": 0.3,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": false
+  },
+  "legalMoves": [
+    {
+      "id": "airslash",
+      "displayName": "Air Slash",
+      "type": "flying",
+      "category": "special",
+      "basePower": 75,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "L1",
+        "R"
+      ]
+    }
+  ]
+}

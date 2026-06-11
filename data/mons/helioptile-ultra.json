@@ -1,0 +1,80 @@
+{
+  "_curated": {
+    "speciesKey": "helioptile-ultra",
+    "displayName": "Helioptile-Ultra",
+    "speciesId": "helioptile-ultra",
+    "source": "delta-curated",
+    "aliases": [
+      "Helioptile-Ultra",
+      "helioptile-ultra",
+      "helioptileultra",
+      "Helioptile Ultra",
+      "helioptile ultra"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "helioptile-ultra",
+    "speciesId": "helioptile-ultra",
+    "displayName": "Helioptile-Ultra",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Grass",
+      "Normal"
+    ],
+    "abilities": [
+      "Steadfast",
+      "Flower Veil",
+      "Solar Power"
+    ],
+    "baseStats": {
+      "hp": 44,
+      "atk": 38,
+      "def": 33,
+      "spa": 61,
+      "spd": 43,
+      "spe": 70
+    },
+    "weightKg": 6,
+    "classification": "Photosynthesis Pokemon",
+    "obtainMethods": [
+      "Spawns in Ultra Wilds"
+    ],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": true
+  },
+  "legalMoves": [],
+  "_note": "STUB worksheet \u2014 Showdown pokedex.js does not contain this custom Delta mon. legalMoves is empty; fill _curated.moves from the Discord thread / wiki / in-game data."
+}

@@ -1,0 +1,74 @@
+{
+  "_curated": {
+    "speciesKey": "pokestar-spirit",
+    "displayName": "Pokestar Spirit",
+    "speciesId": "pokestarspirit",
+    "source": "delta-curated",
+    "aliases": [
+      "Pokestar Spirit",
+      "pokestar-spirit",
+      "pokestarspirit",
+      "pokestar spirit"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "pokestar-spirit",
+    "speciesId": "pokestarspirit",
+    "displayName": "Pokestar Spirit",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Dark",
+      "Ghost"
+    ],
+    "abilities": [
+      "Wonder Guard"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 100,
+      "def": 100,
+      "spa": 100,
+      "spd": 100,
+      "spe": 100
+    },
+    "weightKg": 61,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": false
+  },
+  "legalMoves": []
+}

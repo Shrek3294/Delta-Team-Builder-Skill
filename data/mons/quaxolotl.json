@@ -1,0 +1,79 @@
+{
+  "_curated": {
+    "speciesKey": "quaxolotl",
+    "displayName": "Quaxolotl",
+    "speciesId": "quaxolotl",
+    "source": "delta-curated",
+    "aliases": [
+      "Quaxolotl",
+      "quaxolotl"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "quaxolotl",
+    "speciesId": "quaxolotl",
+    "displayName": "Quaxolotl",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "abilities": [
+      "Strong Psyche",
+      "Water Absorb",
+      "Sheer Force"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 65,
+      "def": 65,
+      "spa": 55,
+      "spd": 85,
+      "spe": 60
+    },
+    "weightKg": 50,
+    "classification": null,
+    "obtainMethods": [
+      "Evolve Wooper-Delta (Level 20)"
+    ],
+    "signatureNotes": [
+      "[ability] Strong Psyche doubles the special attack of the Pokemon"
+    ],
+    "prevo": null,
+    "isStub": true
+  },
+  "legalMoves": [],
+  "_note": "STUB worksheet \u2014 Showdown pokedex.js does not contain this custom Delta mon. legalMoves is empty; fill _curated.moves from the Discord thread / wiki / in-game data."
+}

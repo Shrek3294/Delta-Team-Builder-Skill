@@ -1,0 +1,80 @@
+{
+  "_curated": {
+    "speciesKey": "spiritomb-unbound",
+    "displayName": "Spiritomb-Unbound",
+    "speciesId": "spiritomb-unbound",
+    "source": "delta-curated",
+    "aliases": [
+      "Spiritomb-Unbound",
+      "spiritomb-unbound",
+      "spiritombunbound",
+      "Spiritomb Unbound",
+      "spiritomb unbound"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "spiritomb-unbound",
+    "speciesId": "spiritomb-unbound",
+    "displayName": "Spiritomb-Unbound",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Ghost",
+      "Dark"
+    ],
+    "abilities": [
+      "Spectre Onslaught"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 132,
+      "def": 108,
+      "spa": 132,
+      "spd": 108,
+      "spe": 35
+    },
+    "weightKg": 108,
+    "classification": "Unsealed Pokemon",
+    "obtainMethods": [
+      "Give a Spiritomb an Odd Keystone. It can be found in Area Zero"
+    ],
+    "signatureNotes": [
+      "[ability] Spectre Onslaught: Causes most damaging moves used by the Pokemon to become 4-strike moves. The three strikes following the first strike deal 10% the original damage; Night Shade is not affected by this ability. Secondary Effects used by the user are ignored."
+    ],
+    "prevo": null,
+    "isStub": true
+  },
+  "legalMoves": [],
+  "_note": "STUB worksheet \u2014 Showdown pokedex.js does not contain this custom Delta mon. legalMoves is empty; fill _curated.moves from the Discord thread / wiki / in-game data."
+}

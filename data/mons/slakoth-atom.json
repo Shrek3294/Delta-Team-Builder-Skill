@@ -1,0 +1,79 @@
+{
+  "_curated": {
+    "speciesKey": "slakoth-atom",
+    "displayName": "Slakoth-ATOM",
+    "speciesId": "slakoth-atom",
+    "source": "delta-curated",
+    "aliases": [
+      "Slakoth-ATOM",
+      "slakoth-atom",
+      "slakothatom",
+      "Slakoth ATOM",
+      "slakoth atom"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "slakoth-atom",
+    "speciesId": "slakoth-atom",
+    "displayName": "Slakoth-ATOM",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "abilities": [
+      "Truant",
+      "Levitate"
+    ],
+    "baseStats": {
+      "hp": 136,
+      "atk": 120,
+      "def": 45,
+      "spa": 55,
+      "spd": 136,
+      "spe": 36
+    },
+    "weightKg": 38,
+    "classification": "ExtraterrestrialPokemon",
+    "obtainMethods": [
+      "Aether Labs (Ultra Space)"
+    ],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": true
+  },
+  "legalMoves": [],
+  "_note": "STUB worksheet \u2014 Showdown pokedex.js does not contain this custom Delta mon. legalMoves is empty; fill _curated.moves from the Discord thread / wiki / in-game data."
+}

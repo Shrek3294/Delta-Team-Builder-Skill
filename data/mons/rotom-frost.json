@@ -1,0 +1,89 @@
+{
+  "_curated": {
+    "speciesKey": "rotom-frost",
+    "displayName": "Rotom-Frost",
+    "speciesId": "rotomfrost",
+    "source": "delta-curated",
+    "aliases": [
+      "Rotom-Frost",
+      "rotom-frost",
+      "rotomfrost",
+      "Rotom Frost",
+      "rotom frost"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "rotom-frost",
+    "speciesId": "rotomfrost",
+    "displayName": "Rotom-Frost",
+    "forme": "Frost",
+    "baseSpecies": "Rotom",
+    "types": [
+      "Electric",
+      "Ice"
+    ],
+    "abilities": [
+      "Levitate"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 65,
+      "def": 107,
+      "spa": 105,
+      "spd": 107,
+      "spe": 86
+    },
+    "weightKg": 0.3,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": false
+  },
+  "legalMoves": [
+    {
+      "id": "blizzard",
+      "displayName": "Blizzard",
+      "type": "ice",
+      "category": "special",
+      "basePower": 110,
+      "accuracy": 70,
+      "priority": 0,
+      "methods": [
+        "L1",
+        "R"
+      ]
+    }
+  ]
+}

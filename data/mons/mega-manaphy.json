@@ -1,0 +1,74 @@
+{
+  "_curated": {
+    "speciesKey": "mega-manaphy",
+    "displayName": "Mega Manaphy",
+    "speciesId": "mega-manaphy",
+    "source": "delta-curated",
+    "aliases": [
+      "Mega Manaphy",
+      "mega-manaphy",
+      "megamanaphy",
+      "mega manaphy"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "mega-manaphy",
+    "speciesId": "mega-manaphy",
+    "displayName": "Mega Manaphy",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Water"
+    ],
+    "abilities": [
+      "Noblesse"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 130,
+      "def": 120,
+      "spa": 130,
+      "spd": 120,
+      "spe": 100
+    },
+    "weightKg": 1.4,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": true
+  },
+  "legalMoves": [],
+  "_note": "STUB worksheet \u2014 Showdown pokedex.js does not contain this custom Delta mon. legalMoves is empty; fill _curated.moves from the Discord thread / wiki / in-game data."
+}

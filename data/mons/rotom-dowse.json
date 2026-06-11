@@ -1,0 +1,78 @@
+{
+  "_curated": {
+    "speciesKey": "rotom-dowse",
+    "displayName": "Rotom-Dowse",
+    "speciesId": "rotom-dowse",
+    "source": "delta-curated",
+    "aliases": [
+      "Rotom-Dowse",
+      "rotom-dowse",
+      "rotomdowse",
+      "Rotom Dowse",
+      "rotom dowse"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "rotom-dowse",
+    "speciesId": "rotom-dowse",
+    "displayName": "Rotom-Dowse",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Electric",
+      "Normal"
+    ],
+    "abilities": [
+      "Levitate"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 65,
+      "def": 107,
+      "spa": 105,
+      "spd": 107,
+      "spe": 86
+    },
+    "weightKg": 0.3,
+    "classification": "Plasma Pokemon",
+    "obtainMethods": [
+      "Right-click Rotom with a Dowsing Machine."
+    ],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": true
+  },
+  "legalMoves": [],
+  "_note": "STUB worksheet \u2014 Showdown pokedex.js does not contain this custom Delta mon. legalMoves is empty; fill _curated.moves from the Discord thread / wiki / in-game data."
+}

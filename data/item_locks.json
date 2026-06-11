@@ -1,0 +1,21 @@
+{
+  "_comment": "Species-locked items -> list of allowed species stems (data/mons/<stem>.json). Keys are normalized item ids (lowercased, separators removed). Read by tools/lint_team.py. A holder/item mismatch listed here is a HARD FAIL; an item NOT in this map is a WARN (never a silent pass), so new Z-crystals/stones surface for review. Generic type Z-crystals (Electrium Z, Waterium Z, Flyinium Z, etc.) are intentionally OMITTED because they are not species-locked. Eviolite is intentionally omitted (it ends in -ite but is not a mega stone).",
+  "signature_z_crystals": {
+    "deltatyphlosiumz": ["typhlosion-delta"],
+    "tangledtimiumz": ["tangled-time"],
+    "deltagholdiumz": ["gholdengo-delta"],
+    "atomlopunniumz": ["lopunny-atom"],
+    "deltaklinklangiumz": ["klinklang-delta"],
+    "mimikiumz": ["mimikyu", "mimikyu-busted", "mimikyu-totem", "mimikyu-busted-totem"],
+    "inciniumz": ["incineroar"],
+    "kommoniumz": ["kommo-o", "kommo-o-totem"]
+  },
+  "mega_stones": {
+    "scizorite": ["scizor", "scizor-mega"],
+    "altarianite": ["altaria", "altaria-mega"],
+    "galladite": ["gallade", "gallade-mega"],
+    "gardevoirite": ["gardevoir", "gardevoir-mega"],
+    "diancite": ["diancie", "diancie-mega"],
+    "lopunnite": ["lopunny", "lopunny-mega"]
+  }
+}

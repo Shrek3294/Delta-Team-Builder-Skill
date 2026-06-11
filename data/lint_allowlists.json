@@ -1,0 +1,12 @@
+{
+  "_comment": "Documented exceptions for tools/lint_team.py. move_gaps: moves confirmed legal in the mod but missing from data/mons/<stem>.json legalMoves[] (data gaps). ability_exceptions: abilities valid on a holder that are not present in the resolved species file (e.g. post-Mega abilities). Each entry needs a reason. Keep this small and sourced from notes/mod_days.md or confirmed memory.",
+  "move_gaps": [
+    { "species": "kingambit", "move": "Sucker Punch", "reason": "Standard meta move; JSON learnset gap, confirmed legal in mod_days." },
+    { "species": "grimmsnarl", "move": "Parting Shot", "reason": "Prankster Parting Shot is a real screens set; JSON learnset gap." },
+    { "species": "corviknight", "move": "Roost", "reason": "Corviknight's standard recovery; missing from JSON legalMoves (data gap)." },
+    { "species": "corviknight", "move": "Defog", "reason": "Corviknight's standard hazard removal; missing from JSON legalMoves (data gap)." }
+  ],
+  "ability_exceptions": [
+    { "species": "slaughtermaus-mega", "ability": "Reap", "reason": "Post-Mega ability (auto-crit on slicing moves); Pokepaste lists pre-Mega Vorpal." }
+  ]
+}

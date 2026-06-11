@@ -1,0 +1,20 @@
+# Compiled / generated binaries
+*.pyc
+__pycache__/
+
+# Client deliverables — kept private
+teams/
+
+# Archive backup
+archive/
+
+# Raw Discord scrapes — contain third-party user IDs and messages
+data/discord-ranked/raw/
+
+# Large file tracked via Git LFS instead (see .gitattributes)
+# data/learnsets.generated.json
+
+# Temp / OS
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,85 @@
+{
+  "_curated": {
+    "speciesKey": "charmeleon-delta",
+    "displayName": "Charmeleon-Delta",
+    "speciesId": "charmeleon-delta",
+    "source": "delta-curated",
+    "aliases": [
+      "Charmeleon-Delta",
+      "charmeleon-delta",
+      "charmeleondelta",
+      "Charmeleon Delta",
+      "delta-charmeleon",
+      "Delta Charmeleon",
+      "deltacharmeleon",
+      "delta charmeleon",
+      "charmeleon delta"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "charmeleon-delta",
+    "speciesId": "charmeleon-delta",
+    "displayName": "Charmeleon-Delta",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Dragon"
+    ],
+    "abilities": [
+      "Draconic",
+      "Sturdy"
+    ],
+    "baseStats": {
+      "hp": 52,
+      "atk": 88,
+      "def": 82,
+      "spa": 58,
+      "spd": 65,
+      "spe": 60
+    },
+    "weightKg": 28.5,
+    "classification": null,
+    "obtainMethods": [
+      "Spawns in Basalt Deltas, Nether Wastes, Ash Barrens",
+      "Evolve Charmander-Delta at level 16"
+    ],
+    "signatureNotes": [
+      "[ability] Draconic: When a Pok\u00e9mon with Draconic uses a Dragon-type move, the move's power will be increased by 50% if the user has less than or equal to \u2153 of its maximum HP remaining."
+    ],
+    "prevo": null,
+    "isStub": true
+  },
+  "legalMoves": [],
+  "_note": "STUB worksheet \u2014 Showdown pokedex.js does not contain this custom Delta mon. legalMoves is empty; fill _curated.moves from the Discord thread / wiki / in-game data."
+}

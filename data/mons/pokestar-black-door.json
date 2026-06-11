@@ -1,0 +1,73 @@
+{
+  "_curated": {
+    "speciesKey": "pokestar-black-door",
+    "displayName": "Pokestar Black Door",
+    "speciesId": "pokestarblackdoor",
+    "source": "delta-curated",
+    "aliases": [
+      "Pokestar Black Door",
+      "pokestar-black-door",
+      "pokestarblackdoor",
+      "pokestar black door"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "pokestar-black-door",
+    "speciesId": "pokestarblackdoor",
+    "displayName": "Pokestar Black Door",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Grass"
+    ],
+    "abilities": [
+      "Early Bird"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 100,
+      "def": 100,
+      "spa": 100,
+      "spd": 100,
+      "spe": 100
+    },
+    "weightKg": 61,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": false
+  },
+  "legalMoves": []
+}

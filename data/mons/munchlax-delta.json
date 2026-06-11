@@ -1,0 +1,82 @@
+{
+  "_curated": {
+    "speciesKey": "munchlax-delta",
+    "displayName": "Munchlax-Delta",
+    "speciesId": "munchlax-delta",
+    "source": "delta-curated",
+    "aliases": [
+      "Munchlax-Delta",
+      "munchlax-delta",
+      "munchlaxdelta",
+      "Munchlax Delta",
+      "delta-munchlax",
+      "Delta Munchlax",
+      "deltamunchlax",
+      "delta munchlax",
+      "munchlax delta"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "munchlax-delta",
+    "speciesId": "munchlax-delta",
+    "displayName": "Munchlax-Delta",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Normal",
+      "Grass"
+    ],
+    "abilities": [
+      "Gluttony"
+    ],
+    "baseStats": {
+      "hp": 135,
+      "atk": 85,
+      "def": 85,
+      "spa": 40,
+      "spd": 40,
+      "spe": 5
+    },
+    "weightKg": 105,
+    "classification": "Big EaterPokemon",
+    "obtainMethods": [
+      "Forest Biomes"
+    ],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": true
+  },
+  "legalMoves": [],
+  "_note": "STUB worksheet \u2014 Showdown pokedex.js does not contain this custom Delta mon. legalMoves is empty; fill _curated.moves from the Discord thread / wiki / in-game data."
+}

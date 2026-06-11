@@ -1,0 +1,88 @@
+{
+  "_curated": {
+    "speciesKey": "zamazenta-crowned",
+    "displayName": "Zamazenta-Crowned",
+    "speciesId": "zamazentacrowned",
+    "source": "delta-curated",
+    "aliases": [
+      "Zamazenta-Crowned",
+      "zamazenta-crowned",
+      "zamazentacrowned",
+      "Zamazenta Crowned",
+      "zamazenta crowned"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "zamazenta-crowned",
+    "speciesId": "zamazentacrowned",
+    "displayName": "Zamazenta-Crowned",
+    "forme": "Crowned",
+    "baseSpecies": "Zamazenta",
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
+    "abilities": [
+      "Dauntless Shield"
+    ],
+    "baseStats": {
+      "hp": 92,
+      "atk": 120,
+      "def": 140,
+      "spa": 80,
+      "spd": 140,
+      "spe": 128
+    },
+    "weightKg": 785,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": false
+  },
+  "legalMoves": [
+    {
+      "id": "behemothbash",
+      "displayName": "Behemoth Bash",
+      "type": "steel",
+      "category": "physical",
+      "basePower": 100,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "R"
+      ]
+    }
+  ]
+}

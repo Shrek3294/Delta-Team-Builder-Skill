@@ -1,0 +1,88 @@
+{
+  "_curated": {
+    "speciesKey": "zacian-crowned",
+    "displayName": "Zacian-Crowned",
+    "speciesId": "zaciancrowned",
+    "source": "delta-curated",
+    "aliases": [
+      "Zacian-Crowned",
+      "zacian-crowned",
+      "zaciancrowned",
+      "Zacian Crowned",
+      "zacian crowned"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "zacian-crowned",
+    "speciesId": "zaciancrowned",
+    "displayName": "Zacian-Crowned",
+    "forme": "Crowned",
+    "baseSpecies": "Zacian",
+    "types": [
+      "Fairy",
+      "Steel"
+    ],
+    "abilities": [
+      "Intrepid Sword"
+    ],
+    "baseStats": {
+      "hp": 92,
+      "atk": 150,
+      "def": 115,
+      "spa": 80,
+      "spd": 115,
+      "spe": 148
+    },
+    "weightKg": 355,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": false
+  },
+  "legalMoves": [
+    {
+      "id": "behemothblade",
+      "displayName": "Behemoth Blade",
+      "type": "steel",
+      "category": "physical",
+      "basePower": 100,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "R"
+      ]
+    }
+  ]
+}

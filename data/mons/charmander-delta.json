@@ -1,0 +1,84 @@
+{
+  "_curated": {
+    "speciesKey": "charmander-delta",
+    "displayName": "Charmander-Delta",
+    "speciesId": "charmander-delta",
+    "source": "delta-curated",
+    "aliases": [
+      "Charmander-Delta",
+      "charmander-delta",
+      "charmanderdelta",
+      "Charmander Delta",
+      "delta-charmander",
+      "Delta Charmander",
+      "deltacharmander",
+      "delta charmander",
+      "charmander delta"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "charmander-delta",
+    "speciesId": "charmander-delta",
+    "displayName": "Charmander-Delta",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Dragon"
+    ],
+    "abilities": [
+      "Draconic",
+      "Sturdy"
+    ],
+    "baseStats": {
+      "hp": 39,
+      "atk": 70,
+      "def": 65,
+      "spa": 40,
+      "spd": 45,
+      "spe": 50
+    },
+    "weightKg": 10,
+    "classification": "Hard Scale Pokemon",
+    "obtainMethods": [
+      "Spawns in Basalt Deltas, Nether Wastes, Ash Barrens"
+    ],
+    "signatureNotes": [
+      "[ability] Draconic: When a Pok\u00e9mon with Draconic uses a Dragon-type move, the move's power will be increased by 50% if the user has less than or equal to \u2153 of its maximum HP remaining."
+    ],
+    "prevo": null,
+    "isStub": true
+  },
+  "legalMoves": [],
+  "_note": "STUB worksheet \u2014 Showdown pokedex.js does not contain this custom Delta mon. legalMoves is empty; fill _curated.moves from the Discord thread / wiki / in-game data."
+}

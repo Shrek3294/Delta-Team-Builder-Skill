@@ -1,0 +1,88 @@
+{
+  "_curated": {
+    "speciesKey": "necrozma-dusk-mane",
+    "displayName": "Necrozma-Dusk-Mane",
+    "speciesId": "necrozmaduskmane",
+    "source": "delta-curated",
+    "aliases": [
+      "Necrozma-Dusk-Mane",
+      "necrozma-dusk-mane",
+      "necrozmaduskmane",
+      "Necrozma Dusk Mane",
+      "necrozma dusk mane"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "necrozma-dusk-mane",
+    "speciesId": "necrozmaduskmane",
+    "displayName": "Necrozma-Dusk-Mane",
+    "forme": "Dusk-Mane",
+    "baseSpecies": "Necrozma",
+    "types": [
+      "Psychic",
+      "Steel"
+    ],
+    "abilities": [
+      "Prism Armor"
+    ],
+    "baseStats": {
+      "hp": 97,
+      "atk": 157,
+      "def": 127,
+      "spa": 113,
+      "spd": 109,
+      "spe": 77
+    },
+    "weightKg": 460,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": false
+  },
+  "legalMoves": [
+    {
+      "id": "sunsteelstrike",
+      "displayName": "Sunsteel Strike",
+      "type": "steel",
+      "category": "physical",
+      "basePower": 100,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "R"
+      ]
+    }
+  ]
+}

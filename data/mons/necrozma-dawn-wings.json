@@ -1,0 +1,88 @@
+{
+  "_curated": {
+    "speciesKey": "necrozma-dawn-wings",
+    "displayName": "Necrozma-Dawn-Wings",
+    "speciesId": "necrozmadawnwings",
+    "source": "delta-curated",
+    "aliases": [
+      "Necrozma-Dawn-Wings",
+      "necrozma-dawn-wings",
+      "necrozmadawnwings",
+      "Necrozma Dawn Wings",
+      "necrozma dawn wings"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "necrozma-dawn-wings",
+    "speciesId": "necrozmadawnwings",
+    "displayName": "Necrozma-Dawn-Wings",
+    "forme": "Dawn-Wings",
+    "baseSpecies": "Necrozma",
+    "types": [
+      "Psychic",
+      "Ghost"
+    ],
+    "abilities": [
+      "Prism Armor"
+    ],
+    "baseStats": {
+      "hp": 97,
+      "atk": 113,
+      "def": 109,
+      "spa": 157,
+      "spd": 127,
+      "spe": 77
+    },
+    "weightKg": 350,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": false
+  },
+  "legalMoves": [
+    {
+      "id": "moongeistbeam",
+      "displayName": "Moongeist Beam",
+      "type": "ghost",
+      "category": "special",
+      "basePower": 100,
+      "accuracy": 100,
+      "priority": 0,
+      "methods": [
+        "R"
+      ]
+    }
+  ]
+}

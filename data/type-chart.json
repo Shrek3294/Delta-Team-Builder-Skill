@@ -1,0 +1,49 @@
+{
+  "_doc": "Gen 9 (Gen 6+) type effectiveness chart. Only non-neutral multipliers are listed; any attacker -> defender pair not listed defaults to 1.0x. For dual-type defenders, multiply the two values: Fighting into Fairy/Flying = 0.5 * 0.5 = 0.25.",
+  "chart": {
+    "normal":   { "0":   ["ghost"],                                      "0.5": ["rock", "steel"] },
+    "fire":     { "2":   ["grass", "ice", "bug", "steel"],               "0.5": ["fire", "water", "rock", "dragon"] },
+    "water":    { "2":   ["fire", "ground", "rock"],                     "0.5": ["water", "grass", "dragon"] },
+    "electric": { "2":   ["water", "flying"],                            "0.5": ["electric", "grass", "dragon"],                                       "0": ["ground"] },
+    "grass":    { "2":   ["water", "ground", "rock"],                    "0.5": ["fire", "grass", "poison", "flying", "bug", "dragon", "steel"] },
+    "ice":      { "2":   ["grass", "ground", "flying", "dragon"],        "0.5": ["fire", "water", "ice", "steel"] },
+    "fighting": { "2":   ["normal", "ice", "rock", "dark", "steel"],     "0.5": ["poison", "flying", "psychic", "bug", "fairy"],                       "0": ["ghost"] },
+    "poison":   { "2":   ["grass", "fairy"],                             "0.5": ["poison", "ground", "rock", "ghost"],                                  "0": ["steel"] },
+    "ground":   { "2":   ["fire", "electric", "poison", "rock", "steel"],"0.5": ["grass", "bug"],                                                       "0": ["flying"] },
+    "flying":   { "2":   ["grass", "fighting", "bug"],                   "0.5": ["electric", "rock", "steel"] },
+    "psychic":  { "2":   ["fighting", "poison"],                         "0.5": ["psychic", "steel"],                                                   "0": ["dark"] },
+    "bug":      { "2":   ["grass", "psychic", "dark"],                   "0.5": ["fire", "fighting", "poison", "flying", "ghost", "steel", "fairy"] },
+    "rock":     { "2":   ["fire", "ice", "flying", "bug"],               "0.5": ["fighting", "ground", "steel"] },
+    "ghost":    { "2":   ["psychic", "ghost"],                           "0.5": ["dark"],                                                               "0": ["normal"] },
+    "dragon":   { "2":   ["dragon"],                                     "0.5": ["steel"],                                                              "0": ["fairy"] },
+    "dark":     { "2":   ["psychic", "ghost"],                           "0.5": ["fighting", "dark", "fairy"] },
+    "steel":    { "2":   ["ice", "rock", "fairy"],                       "0.5": ["fire", "water", "electric", "steel"] },
+    "fairy":    { "2":   ["fighting", "dragon", "dark"],                 "0.5": ["fire", "poison", "steel"] }
+  },
+  "modifiers": {
+    "strongWinds": "Tinkaton-Gamma's Parasol Prayer and Mega Rayquaza's Delta Stream set Strong Winds. While active, moves that would be super-effective against pure Flying-types (Ice, Rock, Electric) instead deal NEUTRAL (1x) damage to all Flying-types. Re-run the math for any Flying-type defender when Strong Winds is up.",
+    "levitate": "Levitate (and Air Balloon) makes the holder Ground-immune regardless of type. Archapult (HA Levitate), Hoopa-Delta, and Magigrigus commonly run it. Set Ground -> Levitate user multiplier to 0x.",
+    "waterAbsorb": "Water Absorb (Ogerpon-Wellspring) makes the holder Water-immune. Set Water -> mon multiplier to 0x. Note: Alomomola in delta ranked runs Regenerator, not Water Absorb HA, so do NOT treat Water -> Alo as immune.",
+    "flashFire": "Flash Fire (Heatran) makes the holder Fire-immune. Set Fire -> mon multiplier to 0x.",
+    "scrappy": "Scrappy (Mega Lopunny) lets Normal and Fighting moves hit Ghost-types. Set Normal/Fighting -> Ghost multiplier to 1x (then apply the second type as normal)."
+  },
+  "commonSwitchIns": {
+    "_doc": "Meta-relevant defensive mons to coverage-check every offensive move against. Update as the meta shifts (see notes/meta_overview.md and notes/tierlist.md).",
+    "defenders": [
+      { "name": "Tinkaton-Gamma",    "types": ["fairy", "flying"],    "notes": "Often runs Parasol Prayer -> Strong Winds is up" },
+      { "name": "Corviknight",       "types": ["steel", "flying"] },
+      { "name": "Gliscor",           "types": ["ground", "flying"],   "notes": "Poison Heal" },
+      { "name": "Skarmory",          "types": ["steel", "flying"] },
+      { "name": "Alomomola",         "types": ["water"] },
+      { "name": "Ferrothorn",        "types": ["grass", "steel"] },
+      { "name": "Heatran",           "types": ["fire", "steel"],      "notes": "Flash Fire -> Fire immune" },
+      { "name": "Heatran-Delta",     "types": ["water", "ground"] },
+      { "name": "Clefgar",           "types": ["ghost", "fairy"],     "notes": "Poison Heal" },
+      { "name": "Garganacl",         "types": ["rock"] },
+      { "name": "Tapukehe",          "types": ["ghost", "fairy"] },
+      { "name": "Secret Armor",      "types": ["fighting", "steel"] },
+      { "name": "Mega Scizor",       "types": ["bug", "steel"] },
+      { "name": "Delta Steelix",     "types": ["steel"],              "notes": "Form/typing varies; verify against data/team-builder.json" }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "_curated": {
+    "speciesKey": "ditto",
+    "displayName": "Ditto",
+    "speciesId": "ditto",
+    "source": "delta-curated",
+    "aliases": [
+      "Ditto",
+      "ditto"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "ditto",
+    "speciesId": "ditto",
+    "displayName": "Ditto",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Normal"
+    ],
+    "abilities": [
+      "Limber",
+      "Imposter"
+    ],
+    "baseStats": {
+      "hp": 48,
+      "atk": 48,
+      "def": 48,
+      "spa": 48,
+      "spd": 48,
+      "spe": 48
+    },
+    "weightKg": 4,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": false
+  },
+  "legalMoves": [
+    {
+      "id": "transform",
+      "displayName": "Transform",
+      "type": "normal",
+      "category": "status",
+      "basePower": 0,
+      "accuracy": true,
+      "priority": 0,
+      "methods": [
+        "L1",
+        "V",
+        "S0"
+      ]
+    }
+  ]
+}

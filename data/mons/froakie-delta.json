@@ -1,0 +1,83 @@
+{
+  "_curated": {
+    "speciesKey": "froakie-delta",
+    "displayName": "Froakie-Delta",
+    "speciesId": "froakie-delta",
+    "source": "delta-curated",
+    "aliases": [
+      "Froakie-Delta",
+      "froakie-delta",
+      "froakiedelta",
+      "Froakie Delta",
+      "delta-froakie",
+      "Delta Froakie",
+      "deltafroakie",
+      "delta froakie",
+      "froakie delta"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "froakie-delta",
+    "speciesId": "froakie-delta",
+    "displayName": "Froakie-Delta",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Water",
+      "Rock"
+    ],
+    "abilities": [
+      "Torrent",
+      "Limber"
+    ],
+    "baseStats": {
+      "hp": 41,
+      "atk": 64,
+      "def": 50,
+      "spa": 46,
+      "spd": 44,
+      "spe": 69
+    },
+    "weightKg": 7,
+    "classification": "Samurai Pokemon",
+    "obtainMethods": [
+      "Spawns in Freshwater biomes."
+    ],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": true
+  },
+  "legalMoves": [],
+  "_note": "STUB worksheet \u2014 Showdown pokedex.js does not contain this custom Delta mon. legalMoves is empty; fill _curated.moves from the Discord thread / wiki / in-game data."
+}

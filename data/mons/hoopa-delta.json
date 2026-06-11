@@ -1,0 +1,84 @@
+{
+  "_curated": {
+    "speciesKey": "hoopa-delta",
+    "displayName": "Hoopa-Delta",
+    "speciesId": "hoopa-delta",
+    "source": "delta-curated",
+    "aliases": [
+      "Hoopa-Delta",
+      "hoopa-delta",
+      "hoopadelta",
+      "Hoopa Delta",
+      "delta-hoopa",
+      "Delta Hoopa",
+      "deltahoopa",
+      "delta hoopa",
+      "hoopa delta"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "hoopa-delta",
+    "speciesId": "hoopa-delta",
+    "displayName": "Hoopa-Delta",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Dark",
+      "Rock"
+    ],
+    "abilities": [
+      "Sand Rush"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 135,
+      "def": 125,
+      "spa": 115,
+      "spd": 70,
+      "spe": 75
+    },
+    "weightKg": 9,
+    "classification": "Mischief Pokemon",
+    "obtainMethods": [
+      "Halloween Event"
+    ],
+    "signatureNotes": [
+      "[ability] Mirage: If the user switches in on the field while Sand is active, 25% HP is lost and a substitute is created. If the user has 25% HP or less, a substitute won't be created. This ability activates once per battle."
+    ],
+    "prevo": null,
+    "isStub": true
+  },
+  "legalMoves": [],
+  "_note": "STUB worksheet \u2014 Showdown pokedex.js does not contain this custom Delta mon. legalMoves is empty; fill _curated.moves from the Discord thread / wiki / in-game data."
+}

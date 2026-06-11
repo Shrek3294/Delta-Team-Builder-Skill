@@ -1,0 +1,77 @@
+{
+  "_curated": {
+    "speciesKey": "mewthree",
+    "displayName": "Mewthree",
+    "speciesId": "mewthree",
+    "source": "delta-curated",
+    "aliases": [
+      "Mewthree",
+      "mewthree"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "mewthree",
+    "speciesId": "mewthree",
+    "displayName": "Mewthree",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Dark"
+    ],
+    "abilities": [
+      "Pressure",
+      "Dark Decree"
+    ],
+    "baseStats": {
+      "hp": 106,
+      "atk": 132,
+      "def": 85,
+      "spa": 148,
+      "spd": 85,
+      "spe": 124
+    },
+    "weightKg": 140,
+    "classification": "Genetic Pokemon",
+    "obtainMethods": [
+      "Small chance to encounter while Silvally-Riding in Ultra Space whilst holding a Mew on your shoulder"
+    ],
+    "signatureNotes": [
+      "[ability] Dark Decree:\n    For every fallen ally on the user's team, the user gains a new ability effect. At no allies fainted, you start with Pressure.\n    0: Pressure\n    1: Defiant\n    2: Mold Breaker\n    3: Sheer Force\n    4: Dark Aura\n    5: Soul-Heart"
+    ],
+    "prevo": null,
+    "isStub": true
+  },
+  "legalMoves": [],
+  "_note": "STUB worksheet \u2014 Showdown pokedex.js does not contain this custom Delta mon. legalMoves is empty; fill _curated.moves from the Discord thread / wiki / in-game data."
+}

@@ -1,0 +1,87 @@
+{
+  "_curated": {
+    "speciesKey": "pikachu-libre",
+    "displayName": "Pikachu-Libre",
+    "speciesId": "pikachulibre",
+    "source": "delta-curated",
+    "aliases": [
+      "Pikachu-Libre",
+      "pikachu-libre",
+      "pikachulibre",
+      "Pikachu Libre",
+      "pikachu libre"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "pikachu-libre",
+    "speciesId": "pikachulibre",
+    "displayName": "Pikachu-Libre",
+    "forme": "Libre",
+    "baseSpecies": "Pikachu",
+    "types": [
+      "Electric"
+    ],
+    "abilities": [
+      "Lightning Rod"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "weightKg": 6,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": false
+  },
+  "legalMoves": [
+    {
+      "id": "flyingpress",
+      "displayName": "Flying Press",
+      "type": "fighting",
+      "category": "physical",
+      "basePower": 100,
+      "accuracy": 95,
+      "priority": 0,
+      "methods": [
+        "R"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "_curated": {
+    "speciesKey": "pokestar-f-00",
+    "displayName": "Pokestar F-00",
+    "speciesId": "pokestarf00",
+    "source": "delta-curated",
+    "aliases": [
+      "Pokestar F-00",
+      "pokestar-f-00",
+      "pokestarf00",
+      "Pokestar F 00",
+      "pokestar f 00"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "pokestar-f-00",
+    "speciesId": "pokestarf00",
+    "displayName": "Pokestar F-00",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Steel",
+      "Normal"
+    ],
+    "abilities": [
+      "Volt Absorb"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 100,
+      "def": 100,
+      "spa": 100,
+      "spd": 100,
+      "spe": 100
+    },
+    "weightKg": 61,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": false
+  },
+  "legalMoves": []
+}

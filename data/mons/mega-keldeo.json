@@ -1,0 +1,75 @@
+{
+  "_curated": {
+    "speciesKey": "mega-keldeo",
+    "displayName": "Mega Keldeo",
+    "speciesId": "mega-keldeo",
+    "source": "delta-curated",
+    "aliases": [
+      "Mega Keldeo",
+      "mega-keldeo",
+      "megakeldeo",
+      "mega keldeo"
+    ],
+    "abilities": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "ability",
+        "usagePercent": 100.0
+      }
+    ],
+    "items": [
+      {
+        "id": "",
+        "displayName": "",
+        "type": "item",
+        "usagePercent": 100.0
+      }
+    ],
+    "moves": [],
+    "spreads": [
+      {
+        "nature": "",
+        "evs": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spa": 0,
+          "spd": 0,
+          "spe": 0
+        },
+        "usagePercent": 100.0
+      }
+    ]
+  },
+  "species": {
+    "speciesKey": "mega-keldeo",
+    "speciesId": "mega-keldeo",
+    "displayName": "Mega Keldeo",
+    "forme": null,
+    "baseSpecies": null,
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "abilities": [
+      "Resolute"
+    ],
+    "baseStats": {
+      "hp": 91,
+      "atk": 92,
+      "def": 100,
+      "spa": 164,
+      "spd": 125,
+      "spe": 108
+    },
+    "weightKg": 48.5,
+    "classification": null,
+    "obtainMethods": [],
+    "signatureNotes": [],
+    "prevo": null,
+    "isStub": true
+  },
+  "legalMoves": [],
+  "_note": "STUB worksheet \u2014 Showdown pokedex.js does not contain this custom Delta mon. legalMoves is empty; fill _curated.moves from the Discord thread / wiki / in-game data."
+}

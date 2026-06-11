@@ -1,0 +1,90 @@
+Deltaazumarillium Z:
+	Glacial Pinion:
+		Z-Crystal: deltaazumarilliumz
+		Required Move: Icicle Flail
+		Type: Ice
+		Category: Physical
+		PP: 1
+		Power: 210
+		Accuracy: -%
+		Desc: Azumarill-Delta will smash its flail to the ground, digging its way to the target and binding them with icicle chains.
+		
+	Glacial Pinion inflicts damage and prevents the target from switching out as long as the user remains in battle.
+	
+Drifblimpium Z:
+	One-way Journey:
+		Z-Crystal: drifblimpiumz
+		Required Move: Phantasmal Voyage
+		Type: Ghost
+		Category: Special
+		PP: 1
+		Power: 175
+		Accuracy: -%
+		Desc: Drifblimp will overheat and accelerate toward the target, dealing massive damage.
+		
+	One-way Journey inflicts damage and burns the user.
+	
+Ultrahydrapplium Z:
+	Capricious Syrup Cannonade:
+		Z-Crystal: ultrahydrappliumz
+		Required Move: Syrup Bomb
+		Type: Grass
+		Category: Special
+		PP: 1
+		Power: 175
+		Accuracy: -%
+		Desc: All the serpents inside Hydrapple-Ultra will launch countless Syrup Bombs toward the target.
+		
+	Capricious Syrup Cannonade inflicts damage and sets the Sticky Web entry hazard.
+	
+Ultraglimmorium Z:
+	 Wormhole Pillar:
+		Z-Crystal: ultraglimmoriumz
+		Required Move: Hyperspace Hole
+		Type: Psychic
+		Category: Special
+		PP: 1
+		Power: 175
+		Accuracy: -%
+		Desc: Glimmora-Ultra summons a huge pillar-shaped wormhole above it. It will transport Glimmora-Ultra to the target and back.
+		
+	Wormhole Pillar inflicts damage and changes the user's ability to Adaptability.
+	
+Deltazeraorium Z:
+	Crimson Fist Blitz:
+		Z-Crystal: deltazeraoriumz
+		Required Move: Flashpoint Fists:
+		Type: Fire
+		Category: Physical
+		PP: 1
+		Power: 180
+		Accuracy: -%
+		Desc: Zeraora-Delta will rush the target with devastating flaming blows from all directions.
+		
+	Crimson Fist Blitz inflicts damage and changes the user's ability to Iron Fist.
+	
+Deltavictinium Z:
+	Vow To Win:
+		Z-Crystal: deltavictiniumz
+		Required Move: V-ascend
+		Type: Electric
+		Category: Status
+		PP: 1
+		Power: -
+		Accuracy: -%
+		Desc: Victini-Delta's ears light up to shape a massive electrical V.
+		
+	Vow To Win raises the user's Attack, Special Attack, and Speed by one stage.
+	
+Mewrainium Z:
+	A Thousand Moons:
+		Z-Crystal: mewrainiumz
+		Required Move: New Moon
+		Type: Dark
+		Category: Special
+		PP: 1
+		Power: 185
+		Accuracy: -%
+		Desc: Mewrai summons various moons that crash into the opponent.
+		
+	A Thousand Moons inflicts damage and destoys hazards on the user and opponent's side of the field.

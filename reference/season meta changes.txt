@@ -1,0 +1,84 @@
+also heres a viabilty ranking posted in there discord (03/03/2026)
+## Risen:
+Mega Raichu-Y: A- --> Banned
+Mega Delphox: A- --> Banned
+Tangled Time: A --> S
+Marshadow-Delta: A --> S
+Hawlucha: A- --> A
+Iron Pilot: A- --> A
+Hippowdon: A- --> A
+Excadrill : A- --> A
+Radiant Moon: A- --> A
+Mega Necromauser: A- --> A
+Armaledge: A- --> A
+Mega Chesnaught: A- --> A
+Gholdengo-Delta: A- --> A
+Liesler: A- --> A
+Ancient Gene: B --> A
+Diancette: B --> A
+Ribombee: B --> A-
+Miraiton: B --> A-
+Sinistcha: B --> A-
+Steelix-Delta: B --> A-
+Mega Steelix-Delta: B --> A-
+Pecharunt: B --> A-
+Mega Pinsir: B --> A-
+Keldeo: B --> A-
+Dragascue: B --> A-
+Aspearunt: B --> A-
+Secret Armor: B --> A-
+Victini: B --> A-
+Victini-Delta: B --> A-
+Ursanette: B- --> A-
+Rogue Prince: B- --> B
+Grimmsnarl-Delta: C --> A-
+## Dropped:
+Mega Charizard-Y: S --> A
+Magoodra: A --> A-
+Mega Keldeo-Delta: A --> A-
+Garchomp-Delta: A --> A-
+Hover Pollen: A --> B
+Magirigus: A- --> B
+Mega Latias-Delta: A --> A-
+Uxie-Delta: A --> A-
+Clefgar: A --> A-
+Flygon-Delta: A --> A-
+Flaring Quill: A --> A-
+Goolossal: A --> A-
+## Added:
+Mega Metagross: Banned
+Draculedge: A
+Mega Medicham: A
+Mega Hawlucha: A
+Pachirisu-ATOM: A-
+Mega Banette: A-
+Mega Chandelure: A-
+Mega Altaria: B
+Mega Glalie: B
+Mega Manectric: B
+# Analysis:
+<:cobblemonyellow:1117423379755057283> Trick Room and Sun were heavily nerfed last patch. Thus, all their abusers are automatically less viable. I still think they're very strong playstyles but they're not as brainless as they used to be. Simply having Magoodra bring in any of its dozens of sun abusers or Magirigus 100% guaranteeing Trick Room with an extra turn is no longer a thing.
+Some of them will remain in their tiers just due to how strong they are in general like Ursaluna.
+<:cobblemonyellow:1117423379755057283> Signature Z-Moves are unbanned and as such some Pokemon just have a direct advantage over others. Z-Moves are an offensive tools so defensive cores need to take them into consideration unless they want to get blown up by Tangled Time or Gholdengo-Delta. There will be new Signature Z-Moves added to exisitng Pokemon coming with the Ultra Space update so look forward to that!
+<:cobblemonyellow:1117423379755057283> Mega Raichu-Y and Mega Delphox are just incredibely hard to wall or revenge-kill due to their absurd speed-tier, coverage, and set-up. It's not something worth placing in the tier
+<:cobblemonyellow:1117423379755057283> Some players brought up that they are UU in the Legends-ZA OU meta, but that is a tier with no concern of defensive Pokemon and is a 90% HO meta with specific defensive checks for specific Pokemon. It's a fun, but not healthy metagame and that's why you'll see these powerhouses going in a low tier like UU. You also need to take into consideration that a lot of their DLC Mega Pokemon have amazing abilities that set them at a level way higher than that of the server's. I won't be revoking the ban on either of them especially now that Delphox also has Levitate guaranteed as an ability.
+
+---
+
+## Additions (sourced from Discord channel scrape, 2026-04-29 → 2026-05-14)
+
+### Bans
+- **Mega Gengar — banned in ranked.** Confirmed via multi-author thread on 2026-05-05 (smeds + creationq + bio00025). Source: notes/discord-sentiment.md.
+
+### Releases
+- **Iron Sentinel** — released to ranked on or around 2026-05-03. The Phione paradox. Quark Drive Defog Flying. **Legal in ranked play.** (Banned in the budget tournament only because it dropped after the tourney was announced — that ban does NOT apply to ranked.)
+- **Hydrapple-Ultra** — Poison/Dragon Hydrapple variant, released 2026-05-10. Stat tweak vs base: -10 HP / -10 Atk / +10 Def / +10 SpA. See notes/mod_days.md for the full canonical AV Regen set.
+
+### Mechanic patches (delta ranked)
+- **Status mechanics updated to Pokemon Champions values (server patch ~2026-05-06):**
+  - Sleep capped at 1-2 turns
+  - Paralysis full-para chance: 12.5% (down from 25%)
+  - Freeze: 25% thaw chance per turn
+- **Salt Cure / Moonblast / Leech Seed Champs nerfs are NOT in delta.** Treat at original values.
+- **Mega Galarian Slowbro doesn't exist in delta** — only base Slowbro can mega.
+<:cobblemonyellow:1117423379755057283> I think I will be making surveys more often or when needed to gather opinions on how fun ranked is and what you think can be improved upon. You can also always DM me as usual with your opinions. Disagreeing with my decisions is something I value. We all want the server to be fun and that is my primary goal. As such, if I disagree with you on something, I am doing so just because  I don't think it's beneficial for the server, but that's the purpose of the surveys I'll be opening from time to time.

@@ -1,6 +1,6 @@
 # Cobblemon Delta Ranked Team Building
 
-AI-assisted team building workspace for [Cobblemon Delta](https://modrinth.com/mod/cobblemon-delta) ranked ladder. Built and maintained by a Top 20 ranked player and the creator of [Delta-Calc](https://modrinth.com/mod/delta-calc).
+AI-assisted team building workspace for [Cobblemon Delta](https://modrinth.com/mod/cobblemon-delta) ranked ladder. Built and maintained by a Top 100 ranked player and the creator of [Delta-Calc](https://modrinth.com/mod/delta-calc).
 
 > **New here? Never used a coding tool before?**
 > Read the [**Walkthrough — No Coding Experience Needed**](WALKTHROUGH.md) first.

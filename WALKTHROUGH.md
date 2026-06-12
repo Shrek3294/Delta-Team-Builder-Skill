@@ -72,6 +72,11 @@ from the **Microsoft Store** on Windows, which is the easiest way to get it.
 It is free to use, no credit card required. You just need to sign in with a free
 OpenAI account (the same one you use for ChatGPT if you have one).
 
+**On mobile or don't want to install anything?** Codex is also available directly
+inside **ChatGPT on the web** — go to https://chatgpt.com, open a new chat, and
+look for the **Codex** option. Upload the project files there and use the same
+prompts below. No install needed, works on your phone.
+
 **The `/build` command:**
 
 Type `/build` in the chat for the full guided experience. Codex will read the
@@ -293,9 +298,11 @@ tools above, use **File → Open Folder** and select the top-level
 
 **Can I use this on my phone?**
 
-Claude Code has a web version at https://claude.ai/code that works in a browser.
-Upload the `CLAUDE.md` and the key notes files, then chat with it — you will not
-get the full `/build` experience but you can get a solid team.
+Yes — the easiest way is **ChatGPT on the web**. Go to https://chatgpt.com,
+open a new chat, select the **Codex** option, upload the key project files
+(`CLAUDE.md`, the `notes/` folder, and `data/team-builder.json`), and ask for
+a team. It is free and works on any phone browser. This is the recommended
+mobile option.
 
 **Something looks wrong in the team the AI built — what do I do?**
 
@@ -319,7 +326,7 @@ open for personal use.
 | The most complete `/build` experience | **Claude Code** (Option B) — $20/month |
 | To stay inside a code editor I already have | **Cursor** (Option C) |
 | Free standalone app, okay for simple teams | **Qoder** or **Antigravity** (Options D/E — Qwen model, weaker) |
-| To use it in a browser without installing anything | **claude.ai/code** (upload the key files) |
+| On mobile / no install | **ChatGPT web → Codex** at chatgpt.com — free, works on phone |
 
 ---
 

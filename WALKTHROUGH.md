@@ -100,6 +100,11 @@ Claude Code is made by Anthropic and is the tool this workspace was originally
 designed for. It understands the `/build` command out of the box, which gives
 you the most complete experience.
 
+> **Heads up — Claude Code requires a paid subscription.** You need a
+> **Claude Pro plan at $20/month** to use it. There is no permanent free tier.
+> If you do not want to pay, go with Codex (Option A) instead — it is free and
+> works great with this workspace.
+
 **Download:** https://claude.ai/code — desktop app for Windows and Mac.
 
 **Steps:**
@@ -323,7 +328,7 @@ open for personal use.
 | I want... | Use |
 |---|---|
 | Free, easiest setup, from the ChatGPT team | **Codex desktop app** (Option A) |
-| The most complete `/build` experience | **Claude Code** (Option B) |
+| The most complete `/build` experience | **Claude Code** (Option B) — $20/month |
 | To stay inside a code editor I already have | **Cursor** (Option C) |
 | Free standalone app, okay for simple teams | **Qoder** or **Antigravity** (Options D/E — Qwen model, weaker) |
 | To use it in a browser without installing anything | **claude.ai/code** (upload the key files) |

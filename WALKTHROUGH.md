@@ -133,49 +133,56 @@ makes sure the AI loads the instructions before it starts building.
 
 ---
 
-### Option D: Qodo (also known as Qoder)
+### Option D: Qoder
 
-Qodo is an AI coding assistant that works as an extension inside VS Code.
+Qoder is a standalone desktop app — you download and install it like any normal
+program, no code editor required. It has a very generous free tier.
+
+> **Heads up on the free tier:** Qoder's free plan runs on **Qwen** models.
+> Qwen works fine for basic questions but is noticeably weaker than the AI in
+> Codex, Claude Code, or Cursor when it comes to complex multi-file tasks like
+> this one. You may get simpler teams or miss some Delta-specific nuances. If the
+> results feel shallow, consider switching to one of the top options.
+
+**Download:** Search for **Qoder** in your browser and download the desktop app
+from their official site. Install it like any normal program.
 
 **Steps:**
 
-1. Install VS Code if you do not have it: https://code.visualstudio.com
-2. Open VS Code, go to the **Extensions** panel (the four-squares icon on the left
-   sidebar, or press `Ctrl+Shift+X`)
-3. Search for **Qodo** and click Install
-4. Go to **File → Open Folder** and select the project folder you downloaded
-5. Open the Qodo chat panel from the left sidebar
-6. In the chat, type your team order (see below)
+1. Open the Qoder desktop app
+2. Look for an **Open Folder** or **Add Project** button and select the project
+   folder you downloaded in Step 1
+3. Open the chat panel
+4. Type your team order (see [What to Say to the AI](#step-3--what-to-say-to-the-ai) below)
 
-**Tip for Qodo:** Type `@workspace` at the start of your message so Qodo
-searches the whole project before answering.
+**Tip for Qoder:** Start your message with `Read CLAUDE.md first, then` to make
+sure it loads the Delta rules before building.
 
 ---
 
-### Option E: Gemini Code Assist / Antigravity (by Google)
+### Option E: Antigravity (by Google)
 
-Google's AI coding tools (including Antigravity) work as extensions inside
-VS Code or through a web interface.
+Antigravity is Google's standalone AI coding app — download and install it like
+any normal program. It also has a generous free tier.
 
-**Steps for VS Code extension:**
+> **Heads up on the free tier:** Same note as Qoder above — the free plan uses
+> **Qwen** models, which are weaker than the paid AI in the other tools on this
+> list. Great for trying things out, but for the most accurate Delta team builds
+> you will get better results with Codex or Claude Code.
 
-1. Install VS Code if you do not have it: https://code.visualstudio.com
-2. Open the Extensions panel (`Ctrl+Shift+X`) and search for
-   **Gemini Code Assist** or **Antigravity** and click Install
-3. Sign in with your Google account when prompted
-4. Go to **File → Open Folder** and select the project folder
-5. Open the AI chat panel and type your order
+**Download:** Search for **Antigravity** in your browser and download the desktop
+app from Google's official page. Install it like any normal program.
 
-**Steps for web interface:**
+**Steps:**
 
-1. Go to the tool's web interface and start a new chat
-2. Look for an **Upload files** or **Attach folder** option
-3. Upload the `CLAUDE.md`, `notes/` folder, and `data/team-builder.json` — these
-   three together give the AI everything it needs to build a team
-4. Type your order
+1. Open the Antigravity desktop app
+2. Click **Open Folder** or **Add Project** and select the project folder from
+   Step 1
+3. Open the chat panel
+4. Type your team order (see [What to Say to the AI](#step-3--what-to-say-to-the-ai) below)
 
-**Tip:** Start your message with: `Read the attached CLAUDE.md for the rules of
-this workspace. Then build me a team.`
+**Tip:** Start your message with: `Read CLAUDE.md for the rules of this workspace,
+then build me a team.`
 
 ---
 
@@ -293,7 +300,8 @@ open for personal use.
 |---|---|
 | Free, easiest setup, from the ChatGPT team | **Codex desktop app** (Option A) |
 | The most complete `/build` experience | **Claude Code** (Option B) |
-| To stay inside a code editor I already have | **Cursor** or **VS Code + Qodo/Gemini** |
+| To stay inside a code editor I already have | **Cursor** (Option C) |
+| Free standalone app, okay for simple teams | **Qoder** or **Antigravity** (Options D/E — Qwen model, weaker) |
 | To use it in a browser without installing anything | **claude.ai/code** (upload the key files) |
 
 ---

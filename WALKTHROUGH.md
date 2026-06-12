@@ -39,16 +39,6 @@ Open a terminal (search "cmd" on Windows, "Terminal" on Mac), paste this, and pr
 git clone https://github.com/Shrek3294/cobblemon-delta-team-builder.git
 ```
 
-Then run:
-
-```
-cd cobblemon-delta-team-builder
-git lfs pull
-```
-
-The `git lfs pull` step downloads the large learnset file. If you skip it the
-AI still works — it just will not be able to look up full learnsets on its own.
-
 ---
 
 ## Step 2 — Pick Your AI Tool
@@ -300,13 +290,6 @@ just getting a team built, no Python is needed — the AI does everything in cha
 Make sure you opened the whole project folder, not just one file. In any of the
 tools above, use **File → Open Folder** and select the top-level
 `cobblemon-delta-team-builder` folder.
-
-**The learnsets file is missing or the AI cannot find moves — what happened?**
-
-The learnsets file is large (43 MB) and stored separately via Git LFS. Run
-`git lfs pull` in a terminal inside the project folder to download it. If you
-downloaded the ZIP instead of using git, the file may be a text stub — in that
-case use the git clone method from Step 1 Option B.
 
 **Can I use this on my phone?**
 

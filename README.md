@@ -25,7 +25,7 @@ data/
   mons/         Per-mon JSON (stats, abilities, legalMoves, curated sets)
   usage/        Ranked ladder usage scrapes (1000/1300/1500 ELO tiers)
   team-builder.json   Discord forum scrape — custom ability/move descriptions
-  learnsets.generated.json  Full learnsets (43 MB, tracked via Git LFS)
+  learnsets.generated.json  Full learnsets (43 MB)
 tools/
   calc.py            Damage calculator
   lint_team.py       Deliverable quality gate
@@ -43,7 +43,6 @@ CLAUDE.md       Full AI instructions — read this first
 1. Install [Claude Code](https://claude.ai/code) and open this folder as a project.
 2. Install Python dependencies: `pip install python-docx pypdf2` (for the export tools).
 3. For the damage calc: `python tools/calc.py --self-test` to verify it's working.
-4. Git LFS is required for `data/learnsets.generated.json`: `git lfs install && git lfs pull`.
 
 ## Damage calculator
 

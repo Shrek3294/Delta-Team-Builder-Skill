@@ -260,7 +260,7 @@ and optionally a **battle guide document**.
 
 ### Pokepaste
 
-The Pokepaste block looks like this and can be copied directly into the game:
+The Pokepaste block looks like this:
 
 ```
 Tinkaton-Gamma @ Heavy-Duty Boots
@@ -273,7 +273,12 @@ EVs: 252 HP / 4 Def / 252 SpD
 - Moonlight
 ```
 
-Copy the whole block and paste it into the Cobblemon Delta team importer.
+To use it in-game:
+
+1. Copy the full block the AI gives you
+2. Go to **https://pokepast.es**
+3. Paste it in and click **Create**
+4. You will get a link — share that link or use it to import the team in Cobblemon Delta
 
 ### Battle guide document
 

@@ -14,8 +14,9 @@ open them in one of the supported AI tools, and ask for a team.
 1. The project files on your computer (covered in the next section)
 2. One AI tool from the list below — most are free to start
 
-Pick whichever AI tool you already have, or jump straight to the
-[Claude Code](#option-a-claude-code-recommended) section if you have no preference.
+Pick whichever AI tool you already have, or jump straight to
+[Codex](#option-a-codex-by-openai--recommended--free) if you have no preference —
+it is free, made by the same team as ChatGPT, and has the simplest setup.
 
 ---
 
@@ -58,12 +59,41 @@ all the Delta-specific rules. Then you just chat with it.
 
 ---
 
-### Option A: Claude Code (Recommended)
+### Option A: Codex (by OpenAI) — Recommended — Free
 
-Claude Code is made by Anthropic and is the tool this workspace was designed for.
-It understands the `/build` command out of the box.
+Codex is made by **OpenAI, the same team behind ChatGPT**. It is completely free
+and has a proper desktop app you can download like any normal program — including
+from the **Microsoft Store** on Windows, which is the easiest way to get it.
 
-**Download:** https://claude.ai/code — there is a desktop app for Windows and Mac.
+**Download — pick whichever is easiest:**
+
+- **Microsoft Store (Windows, easiest):** Open the Start menu, search
+  **Microsoft Store**, then search for **OpenAI Codex** and click Install
+- **Direct download:** https://github.com/openai/codex/releases — grab the
+  latest `.exe` (Windows) or `.dmg` (Mac) installer
+
+**Steps:**
+
+1. Open the Codex desktop app after installing
+2. Click **Open Folder** and select the project folder you downloaded in Step 1
+3. The AI reads `CLAUDE.md` automatically when it opens the folder
+4. Type your team order in the chat (see [What to Say to the AI](#step-3--what-to-say-to-the-ai) below)
+
+It is free to use, no credit card required. You just need to sign in with a free
+OpenAI account (the same one you use for ChatGPT if you have one).
+
+**Tip for Codex:** Start your first message with:
+`Read CLAUDE.md to understand the rules of this workspace, then build me a team.`
+
+---
+
+### Option B: Claude Code
+
+Claude Code is made by Anthropic and is the tool this workspace was originally
+designed for. It understands the `/build` command out of the box, which gives
+you the most complete experience.
+
+**Download:** https://claude.ai/code — desktop app for Windows and Mac.
 
 **Steps:**
 
@@ -81,7 +111,7 @@ complete team plus a battle guide document.
 
 ---
 
-### Option B: Cursor
+### Option C: Cursor
 
 Cursor is a code editor with a powerful built-in AI chat. It looks like VS Code
 if you have used that before.
@@ -100,38 +130,6 @@ if you have used that before.
 
 **Tip for Cursor:** Start your message with `Read CLAUDE.md first, then` — this
 makes sure the AI loads the instructions before it starts building.
-
----
-
-### Option C: Codex (by OpenAI)
-
-OpenAI's Codex is a terminal-based AI agent similar to Claude Code.
-
-**Download:** https://github.com/openai/codex — requires Node.js. If you do not
-have Node.js installed, download it first from https://nodejs.org (click the LTS
-version).
-
-**Steps:**
-
-1. Open a terminal (search "cmd" on Windows, "Terminal" on Mac)
-2. Install Codex by typing this and pressing Enter:
-   ```
-   npm install -g @openai/codex
-   ```
-3. Navigate into the project folder:
-   ```
-   cd path\to\cobblemon-delta-team-builder
-   ```
-   (Replace `path\to\` with wherever you extracted the files — for example
-   `cd C:\Users\YourName\Downloads\cobblemon-delta-team-builder`)
-4. Start Codex:
-   ```
-   codex
-   ```
-5. Codex will read the folder automatically. Type your team order in the prompt.
-
-**Tip for Codex:** At the start of your first message, say:
-`Read CLAUDE.md to understand the rules of this workspace, then build me a team.`
 
 ---
 
@@ -293,9 +291,9 @@ open for personal use.
 
 | I want... | Use |
 |---|---|
-| The easiest setup possible | **Claude Code desktop app** |
+| Free, easiest setup, from the ChatGPT team | **Codex desktop app** (Option A) |
+| The most complete `/build` experience | **Claude Code** (Option B) |
 | To stay inside a code editor I already have | **Cursor** or **VS Code + Qodo/Gemini** |
-| A terminal-based agent like Claude Code but from OpenAI | **Codex** |
 | To use it in a browser without installing anything | **claude.ai/code** (upload the key files) |
 
 ---

@@ -4,7 +4,7 @@ AI-assisted team building workspace for [Cobblemon Delta](https://modrinth.com/m
 
 > **New here? Never used a coding tool before?**
 > Read the [**Walkthrough — No Coding Experience Needed**](WALKTHROUGH.md) first.
-> It covers Claude Code, Cursor, Codex, Qodo, and Gemini/Antigravity step by step.
+> Covers Codex (free, by the ChatGPT team, available on the Windows Store), Claude Code, Cursor, Qodo, and Gemini/Antigravity — step by step, no experience needed.
 
 ## What this is
 

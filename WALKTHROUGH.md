@@ -82,8 +82,15 @@ from the **Microsoft Store** on Windows, which is the easiest way to get it.
 It is free to use, no credit card required. You just need to sign in with a free
 OpenAI account (the same one you use for ChatGPT if you have one).
 
-**Tip for Codex:** Start your first message with:
-`Read CLAUDE.md to understand the rules of this workspace, then build me a team.`
+**The `/build` command:**
+
+Type `/build` in the chat for the full guided experience. Codex will read the
+build instructions from `.claude/commands/build.md`, ask you a few short questions
+(required mons, playstyle, budget), and then produce a complete team plus a battle
+guide document.
+
+**Tip for Codex:** If `/build` does not trigger automatically, paste this instead:
+`Read .claude/commands/build.md and follow those instructions to build me a team.`
 
 ---
 
@@ -128,8 +135,15 @@ if you have used that before.
    (there is usually a toggle or a `@codebase` option in the chat input)
 6. Type your team order (see [What to Say to the AI](#step-3--what-to-say-to-the-ai) below)
 
+**The `/build` command:**
+
+Type `/build` in the Cursor chat to start the full guided build. Cursor will read
+`.claude/commands/build.md` and walk you through the intake. If it does not pick
+it up automatically, paste:
+`Read .claude/commands/build.md and follow those instructions to build me a team.`
+
 **Tip for Cursor:** Start your message with `Read CLAUDE.md first, then` — this
-makes sure the AI loads the instructions before it starts building.
+makes sure the AI loads the Delta rules before it starts building.
 
 ---
 
@@ -154,6 +168,11 @@ from their official site. Install it like any normal program.
    folder you downloaded in Step 1
 3. Open the chat panel
 4. Type your team order (see [What to Say to the AI](#step-3--what-to-say-to-the-ai) below)
+
+**The `/build` command:**
+
+Type `/build` in the chat, or paste this if it does not pick it up:
+`Read .claude/commands/build.md and follow those instructions to build me a team.`
 
 **Tip for Qoder:** Start your message with `Read CLAUDE.md first, then` to make
 sure it loads the Delta rules before building.
@@ -180,6 +199,11 @@ app from Google's official page. Install it like any normal program.
    Step 1
 3. Open the chat panel
 4. Type your team order (see [What to Say to the AI](#step-3--what-to-say-to-the-ai) below)
+
+**The `/build` command:**
+
+Type `/build` in the chat, or paste this if it does not pick it up:
+`Read .claude/commands/build.md and follow those instructions to build me a team.`
 
 **Tip:** Start your message with: `Read CLAUDE.md for the rules of this workspace,
 then build me a team.`

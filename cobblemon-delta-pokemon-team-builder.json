@@ -29556,6 +29556,315 @@
       "rawContent": "**Applin-Ultra**, the Apple Core Pokemon, is the Ultra variant of Applin.\n\n**Type:** Poison / Dragon\n**Gender Ratio:** 50 M / 50 F\n**Egg Group:** Grass / Dragon\n**Weight:** 0.5 kg\n**Height:** 0.2 m\n\n**Ability 1:** Poison Point\n\n**Ability 2:** Gluttony\n\n**Hidden Ability:** Bulletproof\n\n**Stats:**\nHP: 40\nAtk: 40\nDef: 80\nSpAtk: 40 \nSpDef: 40\nSpeed: 20\n\nBST: 260\n\n**How to obtain:**\n-  Spawns in Ultra Space\n\n**About Applin-Ultra:**\nThe apples found in Ultra Space proved to be impossible to prevent from rotting as opposed to regular apples due to the harsh climate. As a result, Applin-Ultra takes advantage of the spoil as a means of survival.\n\n**Source:**\nOriginal",
       "hasBattleData": true,
       "kind": "pokemon"
+    },
+    {
+      "name": "Solosis-Ultra",
+      "threadName": "Solosis-Ultra",
+      "threadId": "1512060843532091462",
+      "createdAt": "2026-06-04T11:49:57.830Z",
+      "classification": "PathogenPokemon",
+      "introText": "Solosis-Ultra, the Pathogen Pokemon",
+      "genderRatio": "50 M / 50 F",
+      "eggGroups": [
+        "Amorphous"
+      ],
+      "evYield": null,
+      "obtainMethods": [
+        "Spawns in the Ultra Bloom biome in Ultra Space."
+      ],
+      "source": "Original",
+      "modeler": null,
+      "tags": [],
+      "attachments": [],
+      "signatureAbilities": [],
+      "signatureMoves": [],
+      "about": "Solosis-Ultra's outer shell is covered in microscopic pins that allow it to stick to any surface. It will share its energy with its host and take what it needs",
+      "sharedBaseForm": null,
+      "forms": [
+        {
+          "name": "Base",
+          "types": [
+            "Poison"
+          ],
+          "previousTypes": [],
+          "rawType": "Poison",
+          "abilities": {
+            "primary": null,
+            "secondary": null,
+            "hidden": "Poison Point",
+            "extra": []
+          },
+          "stats": {
+            "hp": 40,
+            "atk": 45,
+            "def": 50,
+            "spa": 95,
+            "spd": 40,
+            "spe": 20,
+            "bst": 290
+          },
+          "size": {
+            "weightKg": 1,
+            "heightM": 0.3,
+            "weightRaw": "1.0 kg",
+            "heightRaw": "0.3 m"
+          },
+          "signatureAbilities": [],
+          "signatureMoves": [],
+          "about": null,
+          "notes": []
+        }
+      ],
+      "rawContent": "**Solosis-Ultra**, the Pathogen Pokemon, is the Ultra variant of Solosis.\n\n**Type:** Poison\n**Gender Ratio:** 50 M / 50 F\n**Egg Group:** Amorphous\n**Weight:** 1.0 kg\n**Height:** 0.3 m\n\n**Ability 1:** Overcoat\n\n**Ability 1:** Symbiosis\n\n**Hidden Ability:** Poison Point\n\n**Stats:**\nHP: 40\nAtk: 45\nDef: 50\nSpAtk: 95\nSpDef: 40\nSpeed: 20\n\nBST: 290\n\n**How to obtain:**\n-  Spawns in the Ultra Bloom biome in Ultra Space.\n\n**About Solosis-Ultra:**\nSolosis-Ultra's outer shell is covered in microscopic pins that allow it to stick to any surface. It will share its energy with its host and take what it needs\n\n**Source:**\nSmudgets",
+      "hasBattleData": true,
+      "kind": "pokemon"
+    },
+    {
+      "name": "Duosion-Ultra",
+      "threadName": "Duosion-Ultra",
+      "threadId": "1512061784628924717",
+      "createdAt": "2026-06-04T11:53:42.205Z",
+      "classification": "PathogenPokemon",
+      "introText": "Duosion-Ultra, the Pathogen Pokemon",
+      "genderRatio": "50 M / 50 F",
+      "eggGroups": [
+        "Amorphous"
+      ],
+      "evYield": null,
+      "obtainMethods": [
+        "Spawns in the Ultra Bloom biome in Ultra Space.",
+        "Evolves from Solosis-Ultra at level 32"
+      ],
+      "source": "Original",
+      "modeler": null,
+      "tags": [],
+      "attachments": [],
+      "signatureAbilities": [],
+      "signatureMoves": [],
+      "about": "Duosion-Ultra's protrusions contain toxins of various kinds. Luckily, its nuclei happens to contain all the necessary antidotes.",
+      "sharedBaseForm": null,
+      "forms": [
+        {
+          "name": "Base",
+          "types": [
+            "Poison"
+          ],
+          "previousTypes": [],
+          "rawType": "Poison",
+          "abilities": {
+            "primary": null,
+            "secondary": null,
+            "hidden": "Poison Point",
+            "extra": []
+          },
+          "stats": {
+            "hp": 70,
+            "atk": 110,
+            "def": 60,
+            "spa": 40,
+            "spd": 55,
+            "spe": 35,
+            "bst": 370
+          },
+          "size": {
+            "weightKg": 7,
+            "heightM": 0.5,
+            "weightRaw": "7.0 kg",
+            "heightRaw": "0.5 m"
+          },
+          "signatureAbilities": [],
+          "signatureMoves": [],
+          "about": null,
+          "notes": []
+        }
+      ],
+      "rawContent": "**Duosion-Ultra**, the Pathogen Pokemon, is the Ultra variant of Duosion.\n\n**Type:** Poison\n**Gender Ratio:** 50 M / 50 F\n**Egg Group:** Amorphous\n**Weight:** 7.0 kg\n**Height:** 0.5 m\n\n**Ability 1:** Overcoat\n\n**Ability 1:** Symbiosis\n\n**Hidden Ability:** Poison Point\n\n**Stats:**\nHP: 70\nAtk: 110\nDef: 60\nSpAtk: 40\nSpDef: 55\nSpeed: 35\n\nBST: 370\n\n**How to obtain:**\n-  Spawns in the Ultra Bloom biome in Ultra Space.\n- Evolves from Solosis-Ultra at level 32\n\n**About Duosion-Ultra:**\nDuosion-Ultra's protrusions contain toxins of various kinds. Luckily, its nuclei happens to contain all the necessary antidotes.\n\n**Source:**\nSmudgets",
+      "hasBattleData": true,
+      "kind": "pokemon"
+    },
+    {
+      "name": "Reuniclus-Ultra",
+      "threadName": "Reuniclus-Ultra",
+      "threadId": "1512064728233672734",
+      "createdAt": "2026-06-04T12:05:24.015Z",
+      "classification": "VirusPokemon",
+      "introText": "Duosion-Ultra, the Virus Pokemon",
+      "genderRatio": "50 M / 50 F",
+      "eggGroups": [
+        "Amorphous"
+      ],
+      "evYield": null,
+      "obtainMethods": [
+        "Spawns in the Ultra Bloom biome in Ultra Space.",
+        "Evolves from Duosion-Ultra at level 41"
+      ],
+      "source": "Original",
+      "modeler": null,
+      "tags": [],
+      "attachments": [],
+      "signatureAbilities": [],
+      "signatureMoves": [],
+      "about": "The Aether foundation has banned Reuniclus-Ultra from the Megalopolis fearing its use as a bio-weapon. The virus it inhabits, while not contagious, will put any afflicted person or Pokemon in a hospital bed. One clear symptom of its virus is the victim's eyes turning lavender purple.",
+      "sharedBaseForm": null,
+      "forms": [
+        {
+          "name": "Base",
+          "types": [
+            "Poison"
+          ],
+          "previousTypes": [],
+          "rawType": "Poison",
+          "abilities": {
+            "primary": null,
+            "secondary": null,
+            "hidden": "Hypervirulent",
+            "extra": []
+          },
+          "stats": {
+            "hp": 100,
+            "atk": 135,
+            "def": 90,
+            "spa": 60,
+            "spd": 70,
+            "spe": 35,
+            "bst": 490
+          },
+          "size": {
+            "weightKg": 18.5,
+            "heightM": 1.2,
+            "weightRaw": "18.5 kg",
+            "heightRaw": "1.2 m"
+          },
+          "signatureAbilities": [],
+          "signatureMoves": [],
+          "about": null,
+          "notes": []
+        }
+      ],
+      "rawContent": "**Duosion-Ultra**, the Virus Pokemon, is the Ultra variant of Reuniclus.\n\n**Type:** Poison\n**Gender Ratio:** 50 M / 50 F\n**Egg Group:** Amorphous\n**Weight:** 18.5 kg\n**Height:** 1.2 m\n\n**Ability 1:** Overcoat\n\n**Ability 1:** Symbiosis\n\n**Hidden Ability:** Hypervirulent\n\n**Stats:**\nHP: 100\nAtk: 135\nDef: 90\nSpAtk: 60\nSpDef: 70\nSpeed: 35\n\nBST: 490\n\n**How to obtain:**\n-  Spawns in the Ultra Bloom biome in Ultra Space.\n- Evolves from Duosion-Ultra at level 41\n\n**Signature Ability:**\nHypervirulent: When a Pokemon with this ability is hit by a move that makes contact, there is a 50% chance that the attacking Pokemon will be inflicted with \"Viremic\".\n-# Viremic: At the end of the turn, the user takes 1/8th of its max health as damage. If the attacking opponent is a Poison or Steel-type, they cannot be afflicted with Viremic.\n\n**Signature Move:**\nViral Restrain:\n    Type: Poison\n    Category: Physical\n    PP: 10 (Max: 16)\n    Power: 40\n    Accuracy: 100%\n    \nViral Restrain inflicts damage. If the target Pokemon is switched out on the turn Viral Restrain is used, Viral Restrain's power doubles. \nViral Restrain's damage will also double if the opponent is under the effects of \"Viremic\".\n\n**About Reuniclus-Ultra:**\nThe Aether foundation has banned Reuniclus-Ultra from the Megalopolis fearing its use as a bio-weapon. The virus it inhabits, while not contagious, will put any afflicted person or Pokemon in a hospital bed. One clear symptom of its virus is the victim's eyes turning lavender purple.\n\n**Source:**\nSmudgets",
+      "hasBattleData": true,
+      "kind": "pokemon"
+    },
+    {
+      "name": "Gholdengo-Omega",
+      "threadName": "Gholdengo-Omega",
+      "threadId": "1510079643795853403",
+      "createdAt": "2026-05-30T00:37:23.004Z",
+      "classification": "BloomPokemon",
+      "introText": "Gholdengo-Omega, the Bloom Pokemon",
+      "genderRatio": "Genderless",
+      "eggGroups": [
+        "No Egg Group Discovered"
+      ],
+      "evYield": null,
+      "obtainMethods": [
+        "Evolves from Gimmighoul-Omega after collecting 100 Flowers from Gimmighoul Chests in Entralink."
+      ],
+      "source": "Original",
+      "modeler": null,
+      "tags": [],
+      "attachments": [],
+      "signatureAbilities": [],
+      "signatureMoves": [],
+      "about": "Gholdengo-Omega surfs the plains and forests on its grass board. Gholdengo-Omega is aware of how dangerous flora overgrowth can be and will maintain a balanced growth in its environment. Gholdengp-Omega leaves fully bloomed flowers of many colors in its wake.",
+      "sharedBaseForm": null,
+      "forms": [
+        {
+          "name": "Base",
+          "types": [
+            "Grass"
+          ],
+          "previousTypes": [],
+          "rawType": "Grass",
+          "abilities": {
+            "primary": "Weeding",
+            "secondary": null,
+            "hidden": null,
+            "extra": []
+          },
+          "stats": {
+            "hp": 101,
+            "atk": 79,
+            "def": 81,
+            "spa": 126,
+            "spd": 72,
+            "spe": 91,
+            "bst": 550
+          },
+          "size": {
+            "weightKg": 22.5,
+            "heightM": 1.2,
+            "weightRaw": "22.5 kg",
+            "heightRaw": "1.2 m"
+          },
+          "signatureAbilities": [],
+          "signatureMoves": [],
+          "about": null,
+          "notes": []
+        }
+      ],
+      "rawContent": "**Gholdengo-Omega**, the Bloom Pokemon, is the Omega variant of Gholdengo.\n\n**Type:** Grass\n**Gender Ratio:** Genderless\n**Egg Group:** No Egg Group Discovered\n**Weight:** 22.5 kg\n**Height:** 1.2 m\n\n**Ability:** Weeding\n\n**Stats:**\nHP: 101\nAtk: 79\nDef: 81\nSpAtk: 126\nSpDef: 72\nSpeed: 91\n\nBST: 550\n\n**How to obtain:**\n-  Evolves from Gimmighoul-Omega after collecting 100 Flowers from Gimmighoul Chests in Entralink.\n\n**Signature Ability:**\nWeeding: When a Pokemon with Weeding uses an offensive Grass-type move, it clears all hazards on its side of the field\n\n**Signature Move:**\nFull Blossom:\n    Type: Grass\n    Category: Special\n    PP: 5 (Max: 8)\n    Power: 120\n    Accuracy: 100%\n    \nFull Blossom inflicts damage and lowers the user's Special Attack one stage\n\n**About Gholdengo-Omega:**\nGholdengo-Omega surfs the plains and forests on its grass board. Gholdengo-Omega is aware of how dangerous flora overgrowth can be and will maintain a balanced growth in its environment. Gholdengp-Omega leaves fully bloomed flowers of many colors in its wake.\n\n**Source:**\nOriginal",
+      "hasBattleData": true,
+      "kind": "pokemon"
+    },
+    {
+      "name": "Gimmighoul-Omega",
+      "threadName": "Gimmighoul-Omega",
+      "threadId": "1510077265009180772",
+      "createdAt": "2026-05-30T00:27:55.857Z",
+      "classification": "Bloom Chest / Bloom HunterPokemon",
+      "introText": "Gimmighoul-Omega, the Bloom Chest / Bloom Hunter Pokemon",
+      "genderRatio": "Genderless",
+      "eggGroups": [
+        "No Egg Group Discovered"
+      ],
+      "evYield": null,
+      "obtainMethods": [
+        "Spawns in Entralink",
+        "A Gimmighoul Basket has a 5% chance of containing Gimmighoul-Omega",
+        "Each Basket grants 2-5 flowers."
+      ],
+      "source": "Original",
+      "modeler": null,
+      "tags": [],
+      "attachments": [],
+      "signatureAbilities": [],
+      "signatureMoves": [],
+      "about": "Gimmighoul-Omega are born from passion that seeped into flora. They wander around collecting flowers that only bloom in the spring. It may be found living in its own flower basket full of berries, flowers, and grass that it has collected. They will impart some of their belongings as gifts on occasion.",
+      "sharedBaseForm": null,
+      "forms": [
+        {
+          "name": "Base",
+          "types": [
+            "Grass"
+          ],
+          "previousTypes": [],
+          "rawType": "Grass",
+          "abilities": {
+            "primary": null,
+            "secondary": null,
+            "hidden": null,
+            "extra": []
+          },
+          "stats": {
+            "hp": 55,
+            "atk": 45,
+            "def": 60,
+            "spa": 70,
+            "spd": 60,
+            "spe": 10,
+            "bst": 300
+          },
+          "size": null,
+          "signatureAbilities": [],
+          "signatureMoves": [],
+          "about": null,
+          "notes": []
+        }
+      ],
+      "rawContent": "**Gimmighoul-Omega**, the Bloom Chest / Bloom Hunter Pokemon, is the Omega variant of Gimmighoul.\n\n**Type:** Grass\n**Gender Ratio:** Genderless\n**Egg Group:** No Egg Group Discovered\n**Weight (Chest):** 5.0 kg\n**Weight (Roaming):** 0.1 kg\n**Height (Chest):** 0.3 m\n**Height (Roaming):** 0.1 m\n\n**Ability (Chest):** Rattled\n\n**Ability (Roaming):** Run Away\n\n**Stats:**\nChest\nHP: 55\nAtk: 45\nDef: 60\nSpAtk: 70\nSpDef: 60\nSpeed: 10\n\nBST: 300\n\nRoaming:\nHP: 55\nAtk: 45\nDef: 25\nSpAtk: 70\nSpDef: 35\nSpeed: 70\n\nBST: 300\n\n**How to obtain:**\n-  Spawns in Entralink\n- A Gimmighoul Basket has a 5% chance of containing Gimmighoul-Omega\n- Each Basket grants 2-5 flowers.\n\n**About Gimmighoul-Omega:**\nGimmighoul-Omega are born from passion that seeped into flora. They wander around collecting flowers that only bloom in the spring. It may be found living in its own flower basket full of berries, flowers, and grass that it has collected. They will impart some of their belongings as gifts on occasion.\n\n**Source:**\nOriginal",
+      "hasBattleData": true,
+      "kind": "pokemon"
     }
   ]
 }

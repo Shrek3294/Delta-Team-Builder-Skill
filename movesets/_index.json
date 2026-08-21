@@ -54,5 +54,45 @@
     "status": "downloaded",
     "fileName": "applin-ultra.xlsx",
     "fetchedAt": "2026-05-19T07:14:12.905Z"
+  },
+  "Solosis-Ultra": {
+    "threadId": "1512060843532091462",
+    "sheetId": "1R0ChOKqf-clRP4VwmmaRMsCdCj24hBets0kmKpbNjkM",
+    "sheetUrl": "docs.google.com/spreadsheets/d/1R0ChOKqf-clRP4VwmmaRMsCdCj24hBets0kmKpbNjkM",
+    "status": "downloaded",
+    "fileName": "solosis-ultra.xlsx",
+    "fetchedAt": "2026-08-21T00:08:32.921Z"
+  },
+  "Duosion-Ultra": {
+    "threadId": "1512061784628924717",
+    "sheetId": "1WC9VtWqkgqvxriwaB_ujrh9ieU-7WV0706cItWaq_4I",
+    "sheetUrl": "docs.google.com/spreadsheets/d/1WC9VtWqkgqvxriwaB_ujrh9ieU-7WV0706cItWaq_4I",
+    "status": "downloaded",
+    "fileName": "duosion-ultra.xlsx",
+    "fetchedAt": "2026-08-21T00:08:34.327Z"
+  },
+  "Reuniclus-Ultra": {
+    "threadId": "1512064728233672734",
+    "sheetId": "1Zr_xUrk9BVkFKEguSjRLVh5pkRHuoPPnoqHiTvUck9A",
+    "sheetUrl": "docs.google.com/spreadsheets/d/1Zr_xUrk9BVkFKEguSjRLVh5pkRHuoPPnoqHiTvUck9A",
+    "status": "downloaded",
+    "fileName": "reuniclus-ultra.xlsx",
+    "fetchedAt": "2026-08-21T00:08:35.876Z"
+  },
+  "Gholdengo-Omega": {
+    "threadId": "1510079643795853403",
+    "sheetId": "1TatGFuoFmrHFYSA9dqgNDQWcJKrEMrWnb3I-3gf0rx8",
+    "sheetUrl": "docs.google.com/spreadsheets/d/1TatGFuoFmrHFYSA9dqgNDQWcJKrEMrWnb3I-3gf0rx8",
+    "status": "downloaded",
+    "fileName": "gholdengo-omega.xlsx",
+    "fetchedAt": "2026-08-21T00:08:37.029Z"
+  },
+  "Gimmighoul-Omega": {
+    "threadId": "1510077265009180772",
+    "sheetId": "1-jcMQncZK2GUmN6Tf_7qQsU3Sxq_653ufP-1eiKx_hk",
+    "sheetUrl": "docs.google.com/spreadsheets/d/1-jcMQncZK2GUmN6Tf_7qQsU3Sxq_653ufP-1eiKx_hk",
+    "status": "downloaded",
+    "fileName": "gimmighoul-omega.xlsx",
+    "fetchedAt": "2026-08-21T00:08:38.401Z"
   }
 }

@@ -62,14 +62,11 @@ See `CLAUDE.md` for full invocation docs and known limitations.
 
 `data/` is a **May 6, 2026** snapshot. Usage stats at [ranked.cobblemondelta.com](https://ranked.cobblemondelta.com) are the live source. Re-running the database scripts in `tools/` regenerates the snapshots.
 
-## Pricing tiers
+## Open Source & Community
 
-This workspace was built to support a paid service:
+Originally built and tuned for competitive team building on Cobblemon Delta, this workspace and all associated datasets, calculators, and documentation are now **100% free and open source** under the MIT License for the community to learn from, use, and improve.
 
-- **60k** — Basic Team Guide (Pokepaste + brief notes)
-- **300k** — Full Team Guide (Pokepaste + full battle doc)
-
-Prices are in Mesa in-game currency on the Cobblemon Delta server.
+Feel free to fork, expand the tier lists and sets, or adapt the tools for your own team building and tournaments!
 
 ---
 
